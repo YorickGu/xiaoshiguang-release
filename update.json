@@ -1,12 +1,12 @@
 {
-  "versionCode": 38,
-  "versionName": "3.0.19",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.19/xiaoshiguang-v3.0.19-release.apk",
+  "versionCode": 39,
+  "versionName": "3.0.20",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.20/xiaoshiguang-v3.0.20-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.19/xiaoshiguang-v3.0.19-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.19/apk/xiaoshiguang-v3.0.19-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.19/xiaoshiguang-v3.0.19-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.20/xiaoshiguang-v3.0.20-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.20/apk/xiaoshiguang-v3.0.20-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.20/xiaoshiguang-v3.0.20-release.apk"
   ],
-  "sha256": "6520d366b4a0b8f0f9153208421b8b10206cc9c6b36214fd473a132bdccd4b3a",
-  "changelog": "首页右上角快捷入口图标修正：改为与「书架」一致的书本图标（此前误用首页小房子图形，容易被误解为回到首页）。"
+  "sha256": "c1f61bb4ccc8f781b70ed4fdcc7128ee81da1a1cd392f7f6c6bd9c366c324bc6",
+  "changelog": "图片体积优化：书籍封面、阅读打卡与时光照片导入时自动压缩并按 EXIF 摆正方向，横拍的照片不再横着存，备份包显著变小。"
 }
