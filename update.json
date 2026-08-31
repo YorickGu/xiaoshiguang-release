@@ -1,12 +1,12 @@
 {
-  "versionCode": 37,
-  "versionName": "3.0.18",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.18/xiaoshiguang-v3.0.18-release.apk",
+  "versionCode": 38,
+  "versionName": "3.0.19",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.19/xiaoshiguang-v3.0.19-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.18/xiaoshiguang-v3.0.18-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.18/apk/xiaoshiguang-v3.0.18-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.18/xiaoshiguang-v3.0.18-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.19/xiaoshiguang-v3.0.19-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.19/apk/xiaoshiguang-v3.0.19-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.19/xiaoshiguang-v3.0.19-release.apk"
   ],
-  "sha256": "e6a4d5db623a5cb341940291d041b9166bb5af3108e34e536b769015e89ee77d",
-  "changelog": "更新清单迁移至 GitHub（raw / jsDelivr / 加速代理三源回退），彻底弃用阿里云 OSS；从此版本起应用内「检查更新」恢复正常（旧包需手动安装本次更新）。"
+  "sha256": "6520d366b4a0b8f0f9153208421b8b10206cc9c6b36214fd473a132bdccd4b3a",
+  "changelog": "首页右上角快捷入口图标修正：改为与「书架」一致的书本图标（此前误用首页小房子图形，容易被误解为回到首页）。"
 }
