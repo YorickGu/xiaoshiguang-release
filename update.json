@@ -1,12 +1,12 @@
 {
-  "versionCode": 40,
-  "versionName": "3.0.21",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.21/xiaoshiguang-v3.0.21-release.apk",
+  "versionCode": 41,
+  "versionName": "3.0.22",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.22/xiaoshiguang-v3.0.22-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.21/xiaoshiguang-v3.0.21-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.21/apk/xiaoshiguang-v3.0.21-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.21/xiaoshiguang-v3.0.21-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.22/xiaoshiguang-v3.0.22-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.22/apk/xiaoshiguang-v3.0.22-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.22/xiaoshiguang-v3.0.22-release.apk"
   ],
-  "sha256": "bb939c62b8917dca84c5d57349fed68c87e120bab529ba359ad49937217b74f6",
-  "changelog": "统计页「重复阅读排行榜」「阅读书籍 TOP 3」与首页「正在阅读」计时弹窗改显示书籍真实封面照片（此前即使上传了封面也只显示兜底图标）。"
+  "sha256": "454e7c9eda7d3fdd874f01c96e440c025b57058f26a149f3c71f276ffc1cdc54",
+  "changelog": "「我的」页重构为宝宝阅读成长主页：新增成长旅程、累计成长与成就收藏预览，功能入口收敛为四个，原有权限、备份与在线更新流程全部保留。"
 }
