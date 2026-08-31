@@ -1,12 +1,12 @@
 {
-  "versionCode": 39,
-  "versionName": "3.0.20",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.20/xiaoshiguang-v3.0.20-release.apk",
+  "versionCode": 40,
+  "versionName": "3.0.21",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.21/xiaoshiguang-v3.0.21-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.20/xiaoshiguang-v3.0.20-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.20/apk/xiaoshiguang-v3.0.20-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.20/xiaoshiguang-v3.0.20-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.21/xiaoshiguang-v3.0.21-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.21/apk/xiaoshiguang-v3.0.21-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.21/xiaoshiguang-v3.0.21-release.apk"
   ],
-  "sha256": "c1f61bb4ccc8f781b70ed4fdcc7128ee81da1a1cd392f7f6c6bd9c366c324bc6",
-  "changelog": "图片体积优化：书籍封面、阅读打卡与时光照片导入时自动压缩并按 EXIF 摆正方向，横拍的照片不再横着存，备份包显著变小。"
+  "sha256": "bb939c62b8917dca84c5d57349fed68c87e120bab529ba359ad49937217b74f6",
+  "changelog": "统计页「重复阅读排行榜」「阅读书籍 TOP 3」与首页「正在阅读」计时弹窗改显示书籍真实封面照片（此前即使上传了封面也只显示兜底图标）。"
 }
