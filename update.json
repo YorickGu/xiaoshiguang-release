@@ -1,12 +1,12 @@
 {
-  "versionCode": 45,
-  "versionName": "3.0.26",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.26/xiaoshiguang-v3.0.26-release.apk",
+  "versionCode": 46,
+  "versionName": "3.0.27",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.27/xiaoshiguang-v3.0.27-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.26/xiaoshiguang-v3.0.26-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.26/apk/xiaoshiguang-v3.0.26-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.26/xiaoshiguang-v3.0.26-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.27/xiaoshiguang-v3.0.27-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.27/apk/xiaoshiguang-v3.0.27-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.27/xiaoshiguang-v3.0.27-release.apk"
   ],
-  "sha256": "4eb01a7fba0cf1f06c54606fb6cebf04cdb92b0de5bffab26c6c0f1079a6323c",
-  "changelog": "「目标与提醒」图标由螺旋纹改为设计稿同款白色靶心；修复「设置与工具」副标题截断：目标/提醒状态两行完整显示，智能识别未配置时显示完整提示。"
+  "sha256": "032b73f2d2a3c652f77cd426a1cca97fedab5db064d127e1145889129f254d78",
+  "changelog": "「设置与工具」四个入口完全统一：副标题全部改为单行短句并锁定不折行，同一行两个入口强制等高，任何字体大小下四个格子尺寸一致。"
 }
