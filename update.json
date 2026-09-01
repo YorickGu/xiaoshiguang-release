@@ -1,12 +1,12 @@
 {
-  "versionCode": 46,
-  "versionName": "3.0.27",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.27/xiaoshiguang-v3.0.27-release.apk",
+  "versionCode": 47,
+  "versionName": "3.0.28",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.28/xiaoshiguang-v3.0.28-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.27/xiaoshiguang-v3.0.27-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.27/apk/xiaoshiguang-v3.0.27-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.27/xiaoshiguang-v3.0.27-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.28/xiaoshiguang-v3.0.28-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.28/apk/xiaoshiguang-v3.0.28-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.28/xiaoshiguang-v3.0.28-release.apk"
   ],
-  "sha256": "032b73f2d2a3c652f77cd426a1cca97fedab5db064d127e1145889129f254d78",
-  "changelog": "「设置与工具」四个入口完全统一：副标题全部改为单行短句并锁定不折行，同一行两个入口强制等高，任何字体大小下四个格子尺寸一致。"
+  "sha256": "0013e2cb209bc23e4393eee9a5e978eeb04fca58535b0cdf2bcd03e293e80764",
+  "changelog": "阅读计时支持「暂停 / 继续」，退出重启后仍可接着计时；新增成就解锁、今日目标完成、周/月目标达成三套庆祝弹窗，周/月目标奖励成长星并记入时光轴；成就解锁自动写入成长时光，备份恢复后成就按记录重新推导。"
 }
