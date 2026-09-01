@@ -1,12 +1,12 @@
 {
-  "versionCode": 43,
-  "versionName": "3.0.24",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.24/xiaoshiguang-v3.0.24-release.apk",
+  "versionCode": 44,
+  "versionName": "3.0.25",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.25/xiaoshiguang-v3.0.25-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.24/xiaoshiguang-v3.0.24-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.24/apk/xiaoshiguang-v3.0.24-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.24/xiaoshiguang-v3.0.24-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.25/xiaoshiguang-v3.0.25-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.25/apk/xiaoshiguang-v3.0.25-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.25/xiaoshiguang-v3.0.25-release.apk"
   ],
-  "sha256": "6e8a6eb8701617de859e8a25638f209085995824b91bbea6dd0c07d76ea473d9",
-  "changelog": "「设置与工具」四个入口的圆形图标容器统一，并按图形留白校正图标视觉尺寸，修复真机上图标大小不一、排列不协调的问题。"
+  "sha256": "02f4b1167e5825253222d34007ef249a73f818ea2361f2f4445fbf27e487dfde",
+  "changelog": "「设置与工具」四个入口图标对齐设计稿：实心彩色圆底+白色图标，并按矢量包围盒归一化视觉尺寸，修复真机上图标大小不一的问题。"
 }
