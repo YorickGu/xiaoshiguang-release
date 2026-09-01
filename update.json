@@ -1,12 +1,12 @@
 {
-  "versionCode": 48,
-  "versionName": "3.0.29",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.29/xiaoshiguang-v3.0.29-release.apk",
+  "versionCode": 49,
+  "versionName": "3.0.30",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.30/xiaoshiguang-v3.0.30-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.29/xiaoshiguang-v3.0.29-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.29/apk/xiaoshiguang-v3.0.29-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.29/xiaoshiguang-v3.0.29-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.30/xiaoshiguang-v3.0.30-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.30/apk/xiaoshiguang-v3.0.30-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.30/xiaoshiguang-v3.0.30-release.apk"
   ],
-  "sha256": "8ddfdbb2cbfd6454df2499ea22ca712345d23f40a77140ec95b579101e49a00a",
-  "changelog": "书架页顶部新增搜索框，书籍较多时可按书名 / 作者即时筛选，清空关键词即恢复完整书架；时光轴操作提示改为「上下滑动查看全年 · 点击卡片可管理记录」。"
+  "sha256": "d25f49e132d093e25bc00953ac11dd6f73b5589aadde92581e90d1007be01cf2",
+  "changelog": "修正首页「今日阅读」卡片的插画裁切：从左侧锚定并轻微放大，人物稳定落在进度环右侧。"
 }
