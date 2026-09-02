@@ -1,12 +1,12 @@
 {
-  "versionCode": 50,
-  "versionName": "3.0.31",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.31/xiaoshiguang-v3.0.31-release.apk",
+  "versionCode": 51,
+  "versionName": "3.0.32",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.32/xiaoshiguang-v3.0.32-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.31/xiaoshiguang-v3.0.31-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.31/apk/xiaoshiguang-v3.0.31-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.31/xiaoshiguang-v3.0.31-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.32/xiaoshiguang-v3.0.32-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.32/apk/xiaoshiguang-v3.0.32-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.32/xiaoshiguang-v3.0.32-release.apk"
   ],
-  "sha256": "7f7c4be181367e088da1fcbac23fc469ddc944a7dfb2d398825ee6247c57279c",
-  "changelog": "首页新增「今晚读什么」智能换书推荐与年龄分段亲子灵感；统计页新增年度成长报告；DeepSeek 调用统一迁移至 Responses API，成长分析与共读建议支持联网搜索并显示是否实际联网。"
+  "sha256": "29b3824edc5b9cfbe43aaa3dc37459f234e72a7cc3a394493b726671be6e12d3",
+  "changelog": "成长报告新增发展阶段建议：AI 结合宝宝年龄与近 30 天成长活动，给出当前与下一阶段的运动、阅读、亲子互动参考；打卡记录新增阅读分钟与阅读感受字段；首页卡片插画显示优化。"
 }
