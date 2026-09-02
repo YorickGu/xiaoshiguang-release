@@ -1,12 +1,12 @@
 {
-  "versionCode": 54,
-  "versionName": "3.0.35",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.35/xiaoshiguang-v3.0.35-release.apk",
+  "versionCode": 55,
+  "versionName": "3.0.36",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.36/xiaoshiguang-v3.0.36-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.35/xiaoshiguang-v3.0.35-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.35/apk/xiaoshiguang-v3.0.35-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.35/xiaoshiguang-v3.0.35-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.36/xiaoshiguang-v3.0.36-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.36/apk/xiaoshiguang-v3.0.36-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.36/xiaoshiguang-v3.0.36-release.apk"
   ],
-  "sha256": "e78b3a250ec37a1961416c6a66821cb5a69497643f759f150dbb0982827a71b5",
-  "changelog": "成长时光页紧凑布局统一：页头、筛选标签、时间线卡片与字号间距对齐全局紧凑规范，年筛选按钮改 36dp 高，移除滑动提示行，单屏可见记录更多。"
+  "sha256": "4c72f655a18333fe8f93e0a0c69b52d640b9258cdd145b9577fd2fd37af28fe4",
+  "changelog": "我的成就与阅读森林弹窗紧凑化：徽章与贴纸卡片缩小字号内边距，收紧行高与内容区高度，弹窗更小巧。"
 }
