@@ -1,12 +1,12 @@
 {
-  "versionCode": 53,
-  "versionName": "3.0.34",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.34/xiaoshiguang-v3.0.34-release.apk",
+  "versionCode": 54,
+  "versionName": "3.0.35",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.35/xiaoshiguang-v3.0.35-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.34/xiaoshiguang-v3.0.34-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.34/apk/xiaoshiguang-v3.0.34-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.34/xiaoshiguang-v3.0.34-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.35/xiaoshiguang-v3.0.35-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.35/apk/xiaoshiguang-v3.0.35-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.35/xiaoshiguang-v3.0.35-release.apk"
   ],
-  "sha256": "a19e5e1541a9a4f8e35dfd36517ec59cf9149755b0254f6dbf3233b591a59ba0",
-  "changelog": "全页面紧凑布局改版：首页、书架、统计、我的统一收紧视觉密度，卡片、图标与字号整体缩小，单屏信息量提升；书架筛选区与统计指标卡紧凑化。"
+  "sha256": "e78b3a250ec37a1961416c6a66821cb5a69497643f759f150dbb0982827a71b5",
+  "changelog": "成长时光页紧凑布局统一：页头、筛选标签、时间线卡片与字号间距对齐全局紧凑规范，年筛选按钮改 36dp 高，移除滑动提示行，单屏可见记录更多。"
 }
