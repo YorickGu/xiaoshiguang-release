@@ -1,12 +1,12 @@
 {
-  "versionCode": 52,
-  "versionName": "3.0.33",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.33/xiaoshiguang-v3.0.33-release.apk",
+  "versionCode": 53,
+  "versionName": "3.0.34",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.34/xiaoshiguang-v3.0.34-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.33/xiaoshiguang-v3.0.33-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.33/apk/xiaoshiguang-v3.0.33-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.33/xiaoshiguang-v3.0.33-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.34/xiaoshiguang-v3.0.34-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.34/apk/xiaoshiguang-v3.0.34-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.34/xiaoshiguang-v3.0.34-release.apk"
   ],
-  "sha256": "4690e8d98b7bc64dd3b58f2713dc4586dd73cc5d5a91125ac52782f60840d20b",
-  "changelog": "统计页大改版：按阅读概览、累计成长、阅读习惯重新分组；阅读趋势支持所选周期与近 30 天双视图；书籍榜单可按次数/时长切换；分布新增学科与兴趣视角。首页插画移至右上角独立区域完整显示，手动打卡搜索框样式统一。"
+  "sha256": "a19e5e1541a9a4f8e35dfd36517ec59cf9149755b0254f6dbf3233b591a59ba0",
+  "changelog": "全页面紧凑布局改版：首页、书架、统计、我的统一收紧视觉密度，卡片、图标与字号整体缩小，单屏信息量提升；书架筛选区与统计指标卡紧凑化。"
 }
