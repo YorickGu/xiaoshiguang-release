@@ -1,12 +1,12 @@
 {
-  "versionCode": 49,
-  "versionName": "3.0.30",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.30/xiaoshiguang-v3.0.30-release.apk",
+  "versionCode": 50,
+  "versionName": "3.0.31",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.31/xiaoshiguang-v3.0.31-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.30/xiaoshiguang-v3.0.30-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.30/apk/xiaoshiguang-v3.0.30-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.30/xiaoshiguang-v3.0.30-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.31/xiaoshiguang-v3.0.31-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.31/apk/xiaoshiguang-v3.0.31-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.31/xiaoshiguang-v3.0.31-release.apk"
   ],
-  "sha256": "d25f49e132d093e25bc00953ac11dd6f73b5589aadde92581e90d1007be01cf2",
-  "changelog": "修正首页「今日阅读」卡片的插画裁切：从左侧锚定并轻微放大，人物稳定落在进度环右侧。"
+  "sha256": "7f7c4be181367e088da1fcbac23fc469ddc944a7dfb2d398825ee6247c57279c",
+  "changelog": "首页新增「今晚读什么」智能换书推荐与年龄分段亲子灵感；统计页新增年度成长报告；DeepSeek 调用统一迁移至 Responses API，成长分析与共读建议支持联网搜索并显示是否实际联网。"
 }
