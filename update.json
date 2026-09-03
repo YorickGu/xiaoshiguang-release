@@ -1,12 +1,12 @@
 {
-  "versionCode": 56,
-  "versionName": "3.0.37",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.37/xiaoshiguang-v3.0.37-release.apk",
+  "versionCode": 57,
+  "versionName": "3.0.38",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.38/xiaoshiguang-v3.0.38-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.37/xiaoshiguang-v3.0.37-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.37/apk/xiaoshiguang-v3.0.37-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.37/xiaoshiguang-v3.0.37-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.38/xiaoshiguang-v3.0.38-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.38/apk/xiaoshiguang-v3.0.38-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.38/xiaoshiguang-v3.0.38-release.apk"
   ],
-  "sha256": "f3a3708d168da2ab31769cc064a10e3e84215e1707b292ba2dde772de97a6ca4",
-  "changelog": "首页新增「问问小时光」AI 助手：多轮会话、流式回答、联网查证与来源标注"
+  "sha256": "098590ea95c9c5382fcd4dca8b6365c25e6a3da25a91788df47bfaf89d1a588a",
+  "changelog": "更新全局提醒：启动静默检查+任意页面弹窗提示；AI 长回答自动续写、选书类强制联网查证；新增本地诊断日志"
 }
