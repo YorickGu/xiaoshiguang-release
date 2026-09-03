@@ -1,12 +1,12 @@
 {
-  "versionCode": 58,
-  "versionName": "3.0.39",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.39/xiaoshiguang-v3.0.39-release.apk",
+  "versionCode": 59,
+  "versionName": "3.0.40",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.40/xiaoshiguang-v3.0.40-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.39/xiaoshiguang-v3.0.39-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.39/apk/xiaoshiguang-v3.0.39-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.39/xiaoshiguang-v3.0.39-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.40/xiaoshiguang-v3.0.40-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.40/apk/xiaoshiguang-v3.0.40-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.40/xiaoshiguang-v3.0.40-release.apk"
   ],
-  "sha256": "a8ef7900ed5e0f3ebbf231ae588d2cb9c3bf5e3eae74cb07554fa44c1bce2a70",
-  "changelog": "数据管理新增「导出诊断日志」：合并当前与上一轮转日志一键导出，通过系统分享面板发送，便于排查更新与 AI 功能问题"
+  "sha256": "8861a8ec655c4660684dda1c8c817e5bafdb6f60b736e369ed172e1137c2f3a9",
+  "changelog": "AI 助手联网搜索改为页面内显式开关、思考模式支持四档：联网默认关闭，开启后强制调用 web_search 并核对来源，未完成搜索不生成回答；思考档位对应 Responses API 的 reasoning.effort=none/low/high/max，默认关闭"
 }
