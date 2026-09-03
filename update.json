@@ -1,12 +1,12 @@
 {
-  "versionCode": 57,
-  "versionName": "3.0.38",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.38/xiaoshiguang-v3.0.38-release.apk",
+  "versionCode": 58,
+  "versionName": "3.0.39",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.39/xiaoshiguang-v3.0.39-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.38/xiaoshiguang-v3.0.38-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.38/apk/xiaoshiguang-v3.0.38-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.38/xiaoshiguang-v3.0.38-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.39/xiaoshiguang-v3.0.39-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.39/apk/xiaoshiguang-v3.0.39-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.39/xiaoshiguang-v3.0.39-release.apk"
   ],
-  "sha256": "098590ea95c9c5382fcd4dca8b6365c25e6a3da25a91788df47bfaf89d1a588a",
-  "changelog": "更新全局提醒：启动静默检查+任意页面弹窗提示；AI 长回答自动续写、选书类强制联网查证；新增本地诊断日志"
+  "sha256": "a8ef7900ed5e0f3ebbf231ae588d2cb9c3bf5e3eae74cb07554fa44c1bce2a70",
+  "changelog": "数据管理新增「导出诊断日志」：合并当前与上一轮转日志一键导出，通过系统分享面板发送，便于排查更新与 AI 功能问题"
 }
