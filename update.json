@@ -1,12 +1,12 @@
 {
-  "versionCode": 55,
-  "versionName": "3.0.36",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.36/xiaoshiguang-v3.0.36-release.apk",
+  "versionCode": 56,
+  "versionName": "3.0.37",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.37/xiaoshiguang-v3.0.37-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.36/xiaoshiguang-v3.0.36-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.36/apk/xiaoshiguang-v3.0.36-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.36/xiaoshiguang-v3.0.36-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.37/xiaoshiguang-v3.0.37-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.37/apk/xiaoshiguang-v3.0.37-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.37/xiaoshiguang-v3.0.37-release.apk"
   ],
-  "sha256": "4c72f655a18333fe8f93e0a0c69b52d640b9258cdd145b9577fd2fd37af28fe4",
-  "changelog": "我的成就与阅读森林弹窗紧凑化：徽章与贴纸卡片缩小字号内边距，收紧行高与内容区高度，弹窗更小巧。"
+  "sha256": "f3a3708d168da2ab31769cc064a10e3e84215e1707b292ba2dde772de97a6ca4",
+  "changelog": "首页新增「问问小时光」AI 助手：多轮会话、流式回答、联网查证与来源标注"
 }
