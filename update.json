@@ -1,12 +1,12 @@
 {
-  "versionCode": 59,
-  "versionName": "3.0.40",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.40/xiaoshiguang-v3.0.40-release.apk",
+  "versionCode": 60,
+  "versionName": "3.0.41",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.41/xiaoshiguang-v3.0.41-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.40/xiaoshiguang-v3.0.40-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.40/apk/xiaoshiguang-v3.0.40-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.40/xiaoshiguang-v3.0.40-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.41/xiaoshiguang-v3.0.41-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.41/apk/xiaoshiguang-v3.0.41-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.41/xiaoshiguang-v3.0.41-release.apk"
   ],
-  "sha256": "8861a8ec655c4660684dda1c8c817e5bafdb6f60b736e369ed172e1137c2f3a9",
-  "changelog": "AI 助手联网搜索改为页面内显式开关、思考模式支持四档：联网默认关闭，开启后强制调用 web_search 并核对来源，未完成搜索不生成回答；思考档位对应 Responses API 的 reasoning.effort=none/low/high/max，默认关闭"
+  "sha256": "d109f9692923dc85062c29c47f2214959a224413673b2f43cee93cf3c318f439",
+  "changelog": "新增本地知识库：AI 助手提问自动检索相关知识卡片"
 }
