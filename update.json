@@ -1,12 +1,12 @@
 {
-  "versionCode": 60,
-  "versionName": "3.0.41",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.41/xiaoshiguang-v3.0.41-release.apk",
+  "versionCode": 61,
+  "versionName": "3.0.42",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.42/xiaoshiguang-v3.0.42-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.41/xiaoshiguang-v3.0.41-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.41/apk/xiaoshiguang-v3.0.41-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.41/xiaoshiguang-v3.0.41-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.42/xiaoshiguang-v3.0.42-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.42/apk/xiaoshiguang-v3.0.42-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.42/xiaoshiguang-v3.0.42-release.apk"
   ],
-  "sha256": "d109f9692923dc85062c29c47f2214959a224413673b2f43cee93cf3c318f439",
-  "changelog": "新增本地知识库：AI 助手提问自动检索相关知识卡片"
+  "sha256": "0eacdf977f3d5b4acc6dadac15001a0e264f42ccc761fd8ada2d756e33b719e1",
+  "changelog": "选书弹窗优化：最近在读可滑动查看更多，大字号适配"
 }
