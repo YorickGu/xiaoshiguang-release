@@ -1,12 +1,12 @@
 {
-  "versionCode": 63,
-  "versionName": "3.0.44",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.44/xiaoshiguang-v3.0.44-release.apk",
+  "versionCode": 64,
+  "versionName": "3.0.45",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.45/xiaoshiguang-v3.0.45-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.44/xiaoshiguang-v3.0.44-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.44/apk/xiaoshiguang-v3.0.44-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.44/xiaoshiguang-v3.0.44-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.45/xiaoshiguang-v3.0.45-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.45/apk/xiaoshiguang-v3.0.45-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.45/xiaoshiguang-v3.0.45-release.apk"
   ],
-  "sha256": "7f6dd2d0612ec4332e10303f511883fcb9a938b06faf58df678df8e0eea05928",
-  "changelog": "补记阅读选书重构：只显示当前选中书，点「更换」打开选书弹窗，复用搜索与阅读状态筛选。"
+  "sha256": "e284070921ace2f8a458ee6a0e882d70d8c72301c4d4b4d730ba0add4f927a19",
+  "changelog": "AI 问答稳定性优化：联网查证失败自动重试一次，流式响应加 120 秒总时限，错误提示更明确。"
 }
