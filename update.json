@@ -1,12 +1,12 @@
 {
-  "versionCode": 62,
-  "versionName": "3.0.43",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.43/xiaoshiguang-v3.0.43-release.apk",
+  "versionCode": 63,
+  "versionName": "3.0.44",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.44/xiaoshiguang-v3.0.44-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.43/xiaoshiguang-v3.0.43-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.43/apk/xiaoshiguang-v3.0.43-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.43/xiaoshiguang-v3.0.43-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.44/xiaoshiguang-v3.0.44-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.44/apk/xiaoshiguang-v3.0.44-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.44/xiaoshiguang-v3.0.44-release.apk"
   ],
-  "sha256": "874a5e98541b05b11cf34820a5c4c470bc094c9120ab6044528f37c30adf08f8",
-  "changelog": "选书弹窗状态筛选：新增未读/在读/读过筛选与常显滚动条，书目列表更紧凑一屏可览更多。"
+  "sha256": "7f6dd2d0612ec4332e10303f511883fcb9a938b06faf58df678df8e0eea05928",
+  "changelog": "补记阅读选书重构：只显示当前选中书，点「更换」打开选书弹窗，复用搜索与阅读状态筛选。"
 }
