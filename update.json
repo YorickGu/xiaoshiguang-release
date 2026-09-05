@@ -1,12 +1,12 @@
 {
-  "versionCode": 64,
-  "versionName": "3.0.45",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.45/xiaoshiguang-v3.0.45-release.apk",
+  "versionCode": 65,
+  "versionName": "3.0.46",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.46/xiaoshiguang-v3.0.46-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.45/xiaoshiguang-v3.0.45-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.45/apk/xiaoshiguang-v3.0.45-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.45/xiaoshiguang-v3.0.45-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.46/xiaoshiguang-v3.0.46-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.46/apk/xiaoshiguang-v3.0.46-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.46/xiaoshiguang-v3.0.46-release.apk"
   ],
-  "sha256": "e284070921ace2f8a458ee6a0e882d70d8c72301c4d4b4d730ba0add4f927a19",
-  "changelog": "AI 问答稳定性优化：联网查证失败自动重试一次，流式响应加 120 秒总时限，错误提示更明确。"
+  "sha256": "ff71ab13616f81369f600c0ce9bbe430e0ccb8a6e1dc25f6a39d8116d74d9aa4",
+  "changelog": "清晰导航与批量记录：五页统一页头导航、多本书合并打卡、时光支持 9 张照片。"
 }
