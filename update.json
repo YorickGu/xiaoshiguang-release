@@ -1,12 +1,12 @@
 {
-  "versionCode": 67,
-  "versionName": "3.0.48",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.48/xiaoshiguang-v3.0.48-release.apk",
+  "versionCode": 68,
+  "versionName": "3.0.49",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.49/xiaoshiguang-v3.0.49-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.48/xiaoshiguang-v3.0.48-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.48/apk/xiaoshiguang-v3.0.48-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.48/xiaoshiguang-v3.0.48-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.49/xiaoshiguang-v3.0.49-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.49/apk/xiaoshiguang-v3.0.49-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.49/xiaoshiguang-v3.0.49-release.apk"
   ],
-  "sha256": "97d5e9fab7a927cab35c1bba60a992c9862ece10a403f03b9d91a81084cb6894",
-  "changelog": "首页聚焦与编辑体验打磨：今日共读卡改大数字进度与快捷入口，小片段记录直达全屏编辑器，书架改网格封面卡并上移状态筛选，AI 问答选项栏精简为一行。"
+  "sha256": "6e3704a9817653b8e095d33b618bb092010e7d59871334132f23374937ba87b6",
+  "changelog": "全屏弹窗统一与头像入口：首页页头改宝宝头像直达「我的」；应用设置、DeepSeek 设置、我的阅读森林、共读计时等弹窗统一升级为全屏编辑器样式；开始共读选书列表改用整页空间，不再固定只显示三本。"
 }
