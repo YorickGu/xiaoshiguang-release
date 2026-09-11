@@ -1,11 +1,11 @@
 {
-  "versionCode": 79,
-  "versionName": "3.0.60",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.60/xiaoshiguang-v3.0.60-release.apk",
+  "versionCode": 80,
+  "versionName": "3.0.61",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.61/xiaoshiguang-v3.0.61-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.60/xiaoshiguang-v3.0.60-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.60/xiaoshiguang-v3.0.60-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.61/xiaoshiguang-v3.0.61-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.61/xiaoshiguang-v3.0.61-release.apk"
   ],
-  "sha256": "19914df795b2368df5d27670e09cf5f4bd44387dccdc9956c3296fa725bbab66",
-  "changelog": "语音与知识库：语音识别结果优先确认且可直接编辑字段后再执行；AI 对话历史/对话页支持一键存入知识库。"
+  "sha256": "86754c2c68634ae692fad5e5171d773a080dcfd92d1dd469275aeb394af6d7c3",
+  "changelog": "语音与书架：意图识别后可切换功能、字段可编辑；打卡找不到书时可直接添加新书并打卡（封面按书名显示）；长按麦克风说话、松开即识别；书架已读次数更醒目、有照片封面不再叠书名；首页适配手势条安全区。"
 }
