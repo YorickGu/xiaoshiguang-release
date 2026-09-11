@@ -1,10 +1,11 @@
 {
-  "versionCode": 76,
-  "versionName": "3.0.57",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.57/xiaoshiguang-v3.0.57-release.apk",
+  "versionCode": 77,
+  "versionName": "3.0.58",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.58/xiaoshiguang-v3.0.58-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.57/xiaoshiguang-v3.0.57-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.58/xiaoshiguang-v3.0.58-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.58/xiaoshiguang-v3.0.58-release.apk"
   ],
-  "sha256": "dac41990d765ec50a23a431380259cf683388c2da978a66017b586e6907e728e",
-  "changelog": "离线语音与联网搜索：内置中文离线识别，云端失败自动本地兜底；接入博查联网搜索；图书与报告联网开关默认关闭；问小时光展示联网与思考选项。"
+  "sha256": "cd134e259733e9e6d2aeabe216e63e9c4223345b07f0bad93fd956044c991ce4",
+  "changelog": "语音意图与离线模型：语音可直接打卡、加书、存知识库、搜书、记成长（写操作先确认）；意图解析不联网搜索；设置里可下载高精度离线语音模型；更新源国内优先。"
 }
