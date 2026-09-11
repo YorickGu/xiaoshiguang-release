@@ -1,11 +1,11 @@
 {
-  "versionCode": 77,
-  "versionName": "3.0.58",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.58/xiaoshiguang-v3.0.58-release.apk",
+  "versionCode": 78,
+  "versionName": "3.0.59",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.59/xiaoshiguang-v3.0.59-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.58/xiaoshiguang-v3.0.58-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.58/xiaoshiguang-v3.0.58-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.59/xiaoshiguang-v3.0.59-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.59/xiaoshiguang-v3.0.59-release.apk"
   ],
-  "sha256": "cd134e259733e9e6d2aeabe216e63e9c4223345b07f0bad93fd956044c991ce4",
-  "changelog": "语音意图与离线模型：语音可直接打卡、加书、存知识库、搜书、记成长（写操作先确认）；意图解析不联网搜索；设置里可下载高精度离线语音模型；更新源国内优先。"
+  "sha256": "5d154ed736e3ffffa06916dfe90da8a4bf18a20a4b1ae7e7cf6fe737a0975ce2",
+  "changelog": "语音交互升级：点结束直接做意图识别，弹确认/选择卡片，确认即执行打卡、加书、存知识库、搜书、记成长；不再把文字回填输入框；纯聊天直接发出；意图解析不联网搜索。"
 }
