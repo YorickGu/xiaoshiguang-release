@@ -1,12 +1,12 @@
 {
-  "versionCode": 72,
-  "versionName": "3.0.53",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.53/xiaoshiguang-v3.0.53-release.apk",
+  "versionCode": 73,
+  "versionName": "3.0.54",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.54/xiaoshiguang-v3.0.54-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.53/xiaoshiguang-v3.0.53-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.53/apk/xiaoshiguang-v3.0.53-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.53/xiaoshiguang-v3.0.53-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.54/xiaoshiguang-v3.0.54-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.54/apk/xiaoshiguang-v3.0.54-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.54/xiaoshiguang-v3.0.54-release.apk"
   ],
-  "sha256": "4b5cbebfdde0959ff3d09a9dffd8b1e1bfef5f2d871a720830aad1f4ee0236c0",
-  "changelog": "移除 AI 请求输出上限，长回复不再被截断"
+  "sha256": "191b02c5e9d4647443a138bfeaea1665f79c9bcbe62a795dd9f1fd1effd340e2",
+  "changelog": "DeepSeek 模型切换 deepseek-flash：封面识别、成长报告与 AI 助手统一切换新模型名"
 }
