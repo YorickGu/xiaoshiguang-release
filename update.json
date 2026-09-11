@@ -1,12 +1,12 @@
 {
-  "versionCode": 74,
-  "versionName": "3.0.55",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.55/xiaoshiguang-v3.0.55-release.apk",
+  "versionCode": 75,
+  "versionName": "3.0.56",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.56/xiaoshiguang-v3.0.56-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.55/xiaoshiguang-v3.0.55-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.55/apk/xiaoshiguang-v3.0.55-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.55/xiaoshiguang-v3.0.55-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.56/xiaoshiguang-v3.0.56-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.56/apk/xiaoshiguang-v3.0.56-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.56/xiaoshiguang-v3.0.56-release.apk"
   ],
-  "sha256": "5cd773022227424c8fa0bd3b8937fbea3342333cc91f5a9e8650f53ddc5a9b76",
-  "changelog": "AI 助手新增语音输入：全屏录音识别、权限申请与错误提示；AI 动作卡片修改保存后状态闭环"
+  "sha256": "034afd699c46a689cc197ec8df294a1fdada8de0b74d1ce1c869426a7d921d7c",
+  "changelog": "语音识别稳定性：识别服务不可用时自动切换备用服务或拉起系统识别界面兜底，AI 链路新增结构化诊断日志，修复联网搜索 tool_choice 兼容性。"
 }
