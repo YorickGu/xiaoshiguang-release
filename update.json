@@ -1,12 +1,12 @@
 {
-  "versionCode": 66,
-  "versionName": "3.0.47",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.47/xiaoshiguang-v3.0.47-release.apk",
+  "versionCode": 67,
+  "versionName": "3.0.48",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.48/xiaoshiguang-v3.0.48-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.47/xiaoshiguang-v3.0.47-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.47/apk/xiaoshiguang-v3.0.47-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.47/xiaoshiguang-v3.0.47-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.48/xiaoshiguang-v3.0.48-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.48/apk/xiaoshiguang-v3.0.48-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.48/xiaoshiguang-v3.0.48-release.apk"
   ],
-  "sha256": "d01006e145618a6ea44f946a1051dd9f9ade2b7c1af4ea55c3bbcbf45d7dd632",
-  "changelog": "视觉重设计与三栏导航：纸张苔绿珊瑚新配色与衬线标题、底部三栏导航与中央记录按钮、时光更名回忆并新增成长故事线摘要卡、记录弹窗改为底部面板。"
+  "sha256": "97d5e9fab7a927cab35c1bba60a992c9862ece10a403f03b9d91a81084cb6894",
+  "changelog": "首页聚焦与编辑体验打磨：今日共读卡改大数字进度与快捷入口，小片段记录直达全屏编辑器，书架改网格封面卡并上移状态筛选，AI 问答选项栏精简为一行。"
 }
