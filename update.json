@@ -1,10 +1,9 @@
 {
   "versionCode": 76,
   "versionName": "3.0.57",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.57/xiaoshiguang-v3.0.57-release.apk",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.57/xiaoshiguang-v3.0.57-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.57/xiaoshiguang-v3.0.57-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.57/xiaoshiguang-v3.0.57-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.57/xiaoshiguang-v3.0.57-release.apk"
   ],
   "sha256": "dac41990d765ec50a23a431380259cf683388c2da978a66017b586e6907e728e",
   "changelog": "离线语音与联网搜索：内置中文离线识别，云端失败自动本地兜底；接入博查联网搜索；图书与报告联网开关默认关闭；问小时光展示联网与思考选项。"
