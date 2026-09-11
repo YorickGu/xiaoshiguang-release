@@ -1,11 +1,11 @@
 {
-  "versionCode": 80,
-  "versionName": "3.0.61",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.61/xiaoshiguang-v3.0.61-release.apk",
+  "versionCode": 81,
+  "versionName": "3.0.62",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.62/xiaoshiguang-v3.0.62-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.61/xiaoshiguang-v3.0.61-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.61/xiaoshiguang-v3.0.61-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.62/xiaoshiguang-v3.0.62-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.62/xiaoshiguang-v3.0.62-release.apk"
   ],
-  "sha256": "86754c2c68634ae692fad5e5171d773a080dcfd92d1dd469275aeb394af6d7c3",
-  "changelog": "语音与书架：意图识别后可切换功能、字段可编辑；打卡找不到书时可直接添加新书并打卡（封面按书名显示）；长按麦克风说话、松开即识别；书架已读次数更醒目、有照片封面不再叠书名；首页适配手势条安全区。"
+  "sha256": "aa65d3cb463ac1d40782540512a3130a0291dde927ef2c65a6338a011f958451",
+  "changelog": "语音与底栏：点麦克风切换成语音框、按住说话松开即识别；对话存知识库前先用模型整理成笔记；底部导航适配手势条，图标默认空心、选中实心。"
 }
