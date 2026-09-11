@@ -1,12 +1,12 @@
 {
-  "versionCode": 71,
-  "versionName": "3.0.52",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.52/xiaoshiguang-v3.0.52-release.apk",
+  "versionCode": 72,
+  "versionName": "3.0.53",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.53/xiaoshiguang-v3.0.53-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.52/xiaoshiguang-v3.0.52-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.52/apk/xiaoshiguang-v3.0.52-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.52/xiaoshiguang-v3.0.52-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.53/xiaoshiguang-v3.0.53-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.53/apk/xiaoshiguang-v3.0.53-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.53/xiaoshiguang-v3.0.53-release.apk"
   ],
-  "sha256": "33cd970a578702188e377428d61fa722023596ce617b1a1d7f9976e964fc41f9",
-  "changelog": "五栏根导航与灵感页改版：首页/打卡/数据全新布局，AI 助手新增「记一条」结构化记录，统计页并入数据 Tab"
+  "sha256": "4b5cbebfdde0959ff3d09a9dffd8b1e1bfef5f2d871a720830aad1f4ee0236c0",
+  "changelog": "移除 AI 请求输出上限，长回复不再被截断"
 }
