@@ -1,11 +1,11 @@
 {
-  "versionCode": 78,
-  "versionName": "3.0.59",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.59/xiaoshiguang-v3.0.59-release.apk",
+  "versionCode": 79,
+  "versionName": "3.0.60",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.60/xiaoshiguang-v3.0.60-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.59/xiaoshiguang-v3.0.59-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.59/xiaoshiguang-v3.0.59-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.60/xiaoshiguang-v3.0.60-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.60/xiaoshiguang-v3.0.60-release.apk"
   ],
-  "sha256": "5d154ed736e3ffffa06916dfe90da8a4bf18a20a4b1ae7e7cf6fe737a0975ce2",
-  "changelog": "语音交互升级：点结束直接做意图识别，弹确认/选择卡片，确认即执行打卡、加书、存知识库、搜书、记成长；不再把文字回填输入框；纯聊天直接发出；意图解析不联网搜索。"
+  "sha256": "19914df795b2368df5d27670e09cf5f4bd44387dccdc9956c3296fa725bbab66",
+  "changelog": "语音与知识库：语音识别结果优先确认且可直接编辑字段后再执行；AI 对话历史/对话页支持一键存入知识库。"
 }
