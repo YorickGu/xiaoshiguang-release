@@ -1,12 +1,12 @@
 {
-  "versionCode": 70,
-  "versionName": "3.0.51",
-  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.51/xiaoshiguang-v3.0.51-release.apk",
+  "versionCode": 71,
+  "versionName": "3.0.52",
+  "url": "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.52/xiaoshiguang-v3.0.52-release.apk",
   "urls": [
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.51/xiaoshiguang-v3.0.51-release.apk",
-    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.51/apk/xiaoshiguang-v3.0.51-release.apk",
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.51/xiaoshiguang-v3.0.51-release.apk"
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.52/xiaoshiguang-v3.0.52-release.apk",
+    "https://cdn.jsdelivr.net/gh/YorickGu/xiaoshiguang-release@v3.0.52/apk/xiaoshiguang-v3.0.52-release.apk",
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.52/xiaoshiguang-v3.0.52-release.apk"
   ],
-  "sha256": "c7b23b8bdde556ca9333c37e73531fd3bb9704109d00d33840759112dfbbaabc",
-  "changelog": "应用设置与 DeepSeek 设置弹窗改回标准 AppDialog 样式，书架「管理」菜单锚点修复，不再弹到屏幕左侧"
+  "sha256": "33cd970a578702188e377428d61fa722023596ce617b1a1d7f9976e964fc41f9",
+  "changelog": "五栏根导航与灵感页改版：首页/打卡/数据全新布局，AI 助手新增「记一条」结构化记录，统计页并入数据 Tab"
 }
