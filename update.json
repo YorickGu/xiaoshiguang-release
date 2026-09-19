@@ -1,11 +1,11 @@
 {
-  "versionCode": 81,
-  "versionName": "3.0.62",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.62/xiaoshiguang-v3.0.62-release.apk",
+  "versionCode": 82,
+  "versionName": "3.0.63",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.63/xiaoshiguang-v3.0.63-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.62/xiaoshiguang-v3.0.62-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.62/xiaoshiguang-v3.0.62-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.63/xiaoshiguang-v3.0.63-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.63/xiaoshiguang-v3.0.63-release.apk"
   ],
-  "sha256": "aa65d3cb463ac1d40782540512a3130a0291dde927ef2c65a6338a011f958451",
-  "changelog": "语音与底栏：点麦克风切换成语音框、按住说话松开即识别；对话存知识库前先用模型整理成笔记；底部导航适配手势条，图标默认空心、选中实心。"
+  "sha256": "11121a26554b3ddd4dd7d9a841e1bc30862fcfbaec605cf4c8e001dba4c60043",
+  "changelog": "家庭共享：新增家庭账号与家庭书架，支持邀请码扫码加入、按需共享图书及封面；添加图书时可匹配公共书目。正式家庭服务上线后可使用相关联网功能。"
 }
