@@ -1,11 +1,11 @@
 {
-  "versionCode": 83,
-  "versionName": "3.0.64",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.64/xiaoshiguang-v3.0.64-release.apk",
+  "versionCode": 84,
+  "versionName": "3.0.65",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.65/xiaoshiguang-v3.0.65-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.64/xiaoshiguang-v3.0.64-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.64/xiaoshiguang-v3.0.64-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.65/xiaoshiguang-v3.0.65-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.65/xiaoshiguang-v3.0.65-release.apk"
   ],
-  "sha256": "8428bad2274d810f3d73557aede30665f403c674b3e40d7cdda9d8f1fc637274",
-  "changelog": "家庭书架连接恢复：登录页可修改 HTTPS 服务地址；服务不可达时可仅清除本机家庭登录并重新登录。本机阅读数据不受影响；家庭服务需单独部署。"
+  "sha256": "df41e9168466d2e1d8bd81d16594729a4532c6dbbf12997f85fb7ef3236a4093",
+  "changelog": "账号与家庭共享书架：账号入口移至“我的”；内置公共服务地址；六位共享码和二维码支持多位成员加入。"
 }
