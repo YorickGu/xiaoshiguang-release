@@ -1,11 +1,11 @@
 {
-  "versionCode": 82,
-  "versionName": "3.0.63",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.63/xiaoshiguang-v3.0.63-release.apk",
+  "versionCode": 83,
+  "versionName": "3.0.64",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.64/xiaoshiguang-v3.0.64-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.63/xiaoshiguang-v3.0.63-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.63/xiaoshiguang-v3.0.63-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.64/xiaoshiguang-v3.0.64-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.64/xiaoshiguang-v3.0.64-release.apk"
   ],
-  "sha256": "11121a26554b3ddd4dd7d9a841e1bc30862fcfbaec605cf4c8e001dba4c60043",
-  "changelog": "家庭共享：新增家庭账号与家庭书架，支持邀请码扫码加入、按需共享图书及封面；添加图书时可匹配公共书目。正式家庭服务上线后可使用相关联网功能。"
+  "sha256": "8428bad2274d810f3d73557aede30665f403c674b3e40d7cdda9d8f1fc637274",
+  "changelog": "家庭书架连接恢复：登录页可修改 HTTPS 服务地址；服务不可达时可仅清除本机家庭登录并重新登录。本机阅读数据不受影响；家庭服务需单独部署。"
 }
