@@ -1,11 +1,11 @@
 {
-  "versionCode": 86,
-  "versionName": "3.0.67",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.67/xiaoshiguang-v3.0.67-release.apk",
+  "versionCode": 87,
+  "versionName": "3.0.68",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.68/xiaoshiguang-v3.0.68-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.67/xiaoshiguang-v3.0.67-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.67/xiaoshiguang-v3.0.67-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.68/xiaoshiguang-v3.0.68-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.68/xiaoshiguang-v3.0.68-release.apk"
   ],
-  "sha256": "90d7b65d3b5b2d61d6f05ba594e530fb8874e785c80643ffafc50955b17089b8",
-  "changelog": "基于当前代码重新构建发布包，保留四栏导航、阅读提醒与家庭书架功能。"
+  "sha256": "5d23ad7b45fcec4b949d603aafd4726f31dd74152ba207e8e88f467a314eed59",
+  "changelog": "基于当前代码重新构建发布包，更新导航与阅读、成长页面，完善账号和家庭共享书架。"
 }
