@@ -1,11 +1,11 @@
 {
-  "versionCode": 87,
-  "versionName": "3.0.68",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.68/xiaoshiguang-v3.0.68-release.apk",
+  "versionCode": 88,
+  "versionName": "3.0.69",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.69/xiaoshiguang-v3.0.69-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.68/xiaoshiguang-v3.0.68-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.68/xiaoshiguang-v3.0.68-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.69/xiaoshiguang-v3.0.69-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.69/xiaoshiguang-v3.0.69-release.apk"
   ],
-  "sha256": "5d23ad7b45fcec4b949d603aafd4726f31dd74152ba207e8e88f467a314eed59",
-  "changelog": "基于当前代码重新构建发布包，更新导航与阅读、成长页面，完善账号和家庭共享书架。"
+  "sha256": "ebe15b82b3b1c2c70510abd45d98b74d1e5fb917f49aafc6e71551786646a7e9",
+  "changelog": "优化阅读记录与成长页面、AI 助手交互和页面导航。"
 }
