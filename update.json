@@ -1,11 +1,11 @@
 {
-  "versionCode": 84,
-  "versionName": "3.0.65",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.65/xiaoshiguang-v3.0.65-release.apk",
+  "versionCode": 85,
+  "versionName": "3.0.66",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.66/xiaoshiguang-v3.0.66-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.65/xiaoshiguang-v3.0.65-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.65/xiaoshiguang-v3.0.65-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.66/xiaoshiguang-v3.0.66-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.66/xiaoshiguang-v3.0.66-release.apk"
   ],
-  "sha256": "df41e9168466d2e1d8bd81d16594729a4532c6dbbf12997f85fb7ef3236a4093",
-  "changelog": "账号与家庭共享书架：账号入口移至“我的”；内置公共服务地址；六位共享码和二维码支持多位成员加入。"
+  "sha256": "9fececb1a33d2753c865f6a8554ffd32522fee8f629cbf372a866f7a376be3a7",
+  "changelog": "四栏导航与阅读提醒：今天、书架、回顾、小时光入口重排；计时可跨页面继续；借入图书到期提醒。"
 }
