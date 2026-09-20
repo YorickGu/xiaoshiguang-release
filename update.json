@@ -1,11 +1,11 @@
 {
-  "versionCode": 88,
-  "versionName": "3.0.69",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.69/xiaoshiguang-v3.0.69-release.apk",
+  "versionCode": 89,
+  "versionName": "3.0.70",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.70/xiaoshiguang-v3.0.70-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.69/xiaoshiguang-v3.0.69-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.69/xiaoshiguang-v3.0.69-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.70/xiaoshiguang-v3.0.70-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.70/xiaoshiguang-v3.0.70-release.apk"
   ],
-  "sha256": "ebe15b82b3b1c2c70510abd45d98b74d1e5fb917f49aafc6e71551786646a7e9",
-  "changelog": "优化阅读记录与成长页面、AI 助手交互和页面导航。"
+  "sha256": "33ebc6ad1128de826274f88068e1fc889e4c45a893b1cdc94fa936ea506ff7d2",
+  "changelog": "优化阅读记录与成长报告，新增 AI 会话搜索并改进页面体验。"
 }
