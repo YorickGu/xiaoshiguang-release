@@ -1,11 +1,11 @@
 {
-  "versionCode": 91,
-  "versionName": "3.0.72",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.72/xiaoshiguang-v3.0.72-release.apk",
+  "versionCode": 92,
+  "versionName": "3.0.73",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.73/xiaoshiguang-v3.0.73-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.72/xiaoshiguang-v3.0.72-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.72/xiaoshiguang-v3.0.72-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.73/xiaoshiguang-v3.0.73-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.73/xiaoshiguang-v3.0.73-release.apk"
   ],
-  "sha256": "6d6aa684c3fb628b1cde28aa6f35436659b37e7acd6c6d77b988d0d66bef4bda",
-  "changelog": "知识库支持接收外部文本分享，优化知识条目编辑与 AI 内容保存体验。"
+  "sha256": "fc0933e7f6ae591f4c1fbbe75a08b02a17f681c764fa44f8e21668bde88881c5",
+  "changelog": "优化知识库页面交互与内容展示。"
 }
