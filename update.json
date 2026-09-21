@@ -1,11 +1,11 @@
 {
-  "versionCode": 97,
-  "versionName": "3.0.78",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.78/xiaoshiguang-v3.0.78-release.apk",
+  "versionCode": 98,
+  "versionName": "3.0.79",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.79/xiaoshiguang-v3.0.79-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.78/xiaoshiguang-v3.0.78-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.78/xiaoshiguang-v3.0.78-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.79/xiaoshiguang-v3.0.79-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.79/xiaoshiguang-v3.0.79-release.apk"
   ],
-  "sha256": "43f09d0162c0ec7841033dfcd11616bd735d3612b9a54b54036520c46dfd73d2",
-  "changelog": "优化阅读记录、知识库和家庭书架体验。"
+  "sha256": "f20a796433236931cc1ed2c1c034db7f00078eeab69892842509edae1152e47b",
+  "changelog": "优化成长回顾、知识库和图片查看体验。"
 }
