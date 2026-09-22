@@ -1,11 +1,11 @@
 {
-  "versionCode": 99,
-  "versionName": "3.0.80",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.80/xiaoshiguang-v3.0.80-release.apk",
+  "versionCode": 100,
+  "versionName": "3.0.81",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.81/xiaoshiguang-v3.0.81-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.80/xiaoshiguang-v3.0.80-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.80/xiaoshiguang-v3.0.80-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.81/xiaoshiguang-v3.0.81-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.81/xiaoshiguang-v3.0.81-release.apk"
   ],
-  "sha256": "58e47f980656a07dcdca7f68db035bf49d527417d52f19a104aa8a45a57a6b96",
-  "changelog": "知识库新增小红书站内搜索与笔记导入；清空应用数据时同步清除本机网页会话。"
+  "sha256": "c8bac4e9ee97a63fa73fdb6f56a483c66e516a88ad67bbb8d0b59352aae8ff95",
+  "changelog": "小红书搜索与 AI 页面能力、远程图片缓存及相关体验优化。"
 }
