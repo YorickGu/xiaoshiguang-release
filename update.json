@@ -1,11 +1,11 @@
 {
-  "versionCode": 98,
-  "versionName": "3.0.79",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.79/xiaoshiguang-v3.0.79-release.apk",
+  "versionCode": 99,
+  "versionName": "3.0.80",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.80/xiaoshiguang-v3.0.80-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.79/xiaoshiguang-v3.0.79-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.79/xiaoshiguang-v3.0.79-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.80/xiaoshiguang-v3.0.80-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.80/xiaoshiguang-v3.0.80-release.apk"
   ],
-  "sha256": "f20a796433236931cc1ed2c1c034db7f00078eeab69892842509edae1152e47b",
-  "changelog": "优化成长回顾、知识库和图片查看体验。"
+  "sha256": "58e47f980656a07dcdca7f68db035bf49d527417d52f19a104aa8a45a57a6b96",
+  "changelog": "知识库新增小红书站内搜索与笔记导入；清空应用数据时同步清除本机网页会话。"
 }
