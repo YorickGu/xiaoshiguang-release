@@ -1,11 +1,11 @@
 {
-  "versionCode": 102,
-  "versionName": "3.0.83",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.83/xiaoshiguang-v3.0.83-release.apk",
+  "versionCode": 104,
+  "versionName": "3.0.85",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.85/xiaoshiguang-v3.0.85-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.83/xiaoshiguang-v3.0.83-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.83/xiaoshiguang-v3.0.83-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.85/xiaoshiguang-v3.0.85-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.85/xiaoshiguang-v3.0.85-release.apk"
   ],
-  "sha256": "c82dbd5ea3450b1b78f0c926df5c03224fbad423f7a38a934f88714b9b404ffa",
-  "changelog": "优化小时光搜索与小红书内容浏览体验。"
+  "sha256": "5a9f8726cdfe487380fc9feb746422302c865fabcce4adc65a32e935859b4cef",
+  "changelog": "新增应用内小红书登录与搜索，支持选择内容导入知识库；优化搜索状态与图片缓存体验。"
 }
