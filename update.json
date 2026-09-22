@@ -1,11 +1,11 @@
 {
-  "versionCode": 108,
-  "versionName": "3.0.89",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.89/xiaoshiguang-v3.0.89-release.apk",
+  "versionCode": 109,
+  "versionName": "3.0.90",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.90/xiaoshiguang-v3.0.90-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.89/xiaoshiguang-v3.0.89-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.89/xiaoshiguang-v3.0.89-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.90/xiaoshiguang-v3.0.90-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.90/xiaoshiguang-v3.0.90-release.apk"
   ],
-  "sha256": "5fd01db9e6f9f683331cd480de9c6da43048fee1643c079dfe6a2956e94b8032",
-  "changelog": "新增 AI 知识库小红书搜索导入，修复小红书登录二维码显示不完整，优化应用更新下载与 AI 使用体验。"
+  "sha256": "861fda1e4d7ef716db1ef55ce7382f7f6d1d528f2b34eba0b2da98280ea6365b",
+  "changelog": "修复小红书登录页适配：登录弹窗顶部对齐、内容可滚动，验证页二维码按实际视口高度完整显示；小红书 http 跳转自动升级 https，修复登录页打不开；搜索失败提示补充具体原因。"
 }
