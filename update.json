@@ -1,11 +1,11 @@
 {
-  "versionCode": 106,
-  "versionName": "3.0.87",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.87/xiaoshiguang-v3.0.87-release.apk",
+  "versionCode": 107,
+  "versionName": "3.0.88",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.88/xiaoshiguang-v3.0.88-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.87/xiaoshiguang-v3.0.87-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.87/xiaoshiguang-v3.0.87-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.88/xiaoshiguang-v3.0.88-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.88/xiaoshiguang-v3.0.88-release.apk"
   ],
-  "sha256": "a853733e56786fe3a6a60556e454d5a2fb7d3c35f175bf6d1af3d349a44d7a1b",
-  "changelog": "优化应用内小红书搜索与知识库导入、AI 最近对话及更新包下载体验。"
+  "sha256": "b6b8e9793d3295847279fa91d3224d2f5669b4c1c0cd0853e8b0408bfec2e1d0",
+  "changelog": "更新当前应用版本并优化使用体验。"
 }
