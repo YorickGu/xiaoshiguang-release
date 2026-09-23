@@ -1,11 +1,11 @@
 {
-  "versionCode": 110,
-  "versionName": "3.0.91",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.91/xiaoshiguang-v3.0.91-release.apk",
+  "versionCode": 111,
+  "versionName": "3.0.92",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.92/xiaoshiguang-v3.0.92-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.91/xiaoshiguang-v3.0.91-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.91/xiaoshiguang-v3.0.91-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.92/xiaoshiguang-v3.0.92-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.92/xiaoshiguang-v3.0.92-release.apk"
   ],
-  "sha256": "f154de8149b15780ae0a36987032e17a41cd5b3e907b5bd5e708eef9a9a782a5",
+  "sha256": "f8338304672aebdde075ecfe9e7a0afb06d9cddd61f2418c973a0239311b802b",
   "changelog": "修复小红书搜索首次加载卡住、换词或翻页读到旧结果的问题，增加页面读取超时与加载后状态宽限"
 }
