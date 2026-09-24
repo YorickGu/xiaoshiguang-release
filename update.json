@@ -1,11 +1,11 @@
 {
-  "versionCode": 111,
-  "versionName": "3.0.92",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.92/xiaoshiguang-v3.0.92-release.apk",
+  "versionCode": 112,
+  "versionName": "3.0.93",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.93/xiaoshiguang-v3.0.93-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.92/xiaoshiguang-v3.0.92-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.92/xiaoshiguang-v3.0.92-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.93/xiaoshiguang-v3.0.93-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.93/xiaoshiguang-v3.0.93-release.apk"
   ],
-  "sha256": "f8338304672aebdde075ecfe9e7a0afb06d9cddd61f2418c973a0239311b802b",
-  "changelog": "修复小红书搜索首次加载卡住、换词或翻页读到旧结果的问题，增加页面读取超时与加载后状态宽限"
+  "sha256": "9014542fa10771b6c846913d6d9373e6c8cde52c6b41e2cfb29a32d6c0939e99",
+  "changelog": "全面统一界面视觉与组件样式，优化首页、阅读、成长和知识库等主要页面布局与交互"
 }
