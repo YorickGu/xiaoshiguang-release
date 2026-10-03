@@ -1,11 +1,11 @@
 {
-  "versionCode": 114,
-  "versionName": "3.0.95",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.95/xiaoshiguang-v3.0.95-release.apk",
+  "versionCode": 115,
+  "versionName": "3.0.96",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.96/xiaoshiguang-v3.0.96-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.95/xiaoshiguang-v3.0.95-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.95/xiaoshiguang-v3.0.95-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.96/xiaoshiguang-v3.0.96-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.96/xiaoshiguang-v3.0.96-release.apk"
   ],
-  "sha256": "789eddff3a09a6be5af27bd98d0ed0be320166525b375092692af6fd8af3908a",
-  "changelog": "基于小红书搜索加载与历史状态修复版本重新打包，恢复此前界面。签名迁移：v3.0.93 及更早版本需先导出完整 ZIP 备份并保存到应用外部，确认成功后再卸载旧版、安装本版并恢复备份；API Key 等加密凭据需重新配置。安装本版后，后续同签名版本可通过应用内更新下载并覆盖安装。"
+  "sha256": "b93039b9c2ca518a3fa4be96e73de4f72d1ae2014e8a0cbf33a64767bb05893c",
+  "changelog": "恢复 v3.0.62 源码的旧版界面；保留数据库兼容，支持 v3.0.95 覆盖更新。新版特有功能不包含在本版。v3.0.93 及更早版本因签名不同，需先备份再迁移安装。"
 }
