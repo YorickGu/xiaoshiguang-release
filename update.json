@@ -1,11 +1,11 @@
 {
-  "versionCode": 112,
-  "versionName": "3.0.93",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.93/xiaoshiguang-v3.0.93-release.apk",
+  "versionCode": 114,
+  "versionName": "3.0.95",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.95/xiaoshiguang-v3.0.95-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.93/xiaoshiguang-v3.0.93-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.93/xiaoshiguang-v3.0.93-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.95/xiaoshiguang-v3.0.95-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.95/xiaoshiguang-v3.0.95-release.apk"
   ],
-  "sha256": "9014542fa10771b6c846913d6d9373e6c8cde52c6b41e2cfb29a32d6c0939e99",
-  "changelog": "全面统一界面视觉与组件样式，优化首页、阅读、成长和知识库等主要页面布局与交互"
+  "sha256": "789eddff3a09a6be5af27bd98d0ed0be320166525b375092692af6fd8af3908a",
+  "changelog": "基于小红书搜索加载与历史状态修复版本重新打包，恢复此前界面。签名迁移：v3.0.93 及更早版本需先导出完整 ZIP 备份并保存到应用外部，确认成功后再卸载旧版、安装本版并恢复备份；API Key 等加密凭据需重新配置。安装本版后，后续同签名版本可通过应用内更新下载并覆盖安装。"
 }
