@@ -1,11 +1,11 @@
 {
-  "versionCode": 115,
-  "versionName": "3.0.96",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.96/xiaoshiguang-v3.0.96-release.apk",
+  "versionCode": 117,
+  "versionName": "3.1.1",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.1/xiaoshiguang-v3.1.1-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.96/xiaoshiguang-v3.0.96-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.96/xiaoshiguang-v3.0.96-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.1/xiaoshiguang-v3.1.1-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.1/xiaoshiguang-v3.1.1-release.apk"
   ],
-  "sha256": "b93039b9c2ca518a3fa4be96e73de4f72d1ae2014e8a0cbf33a64767bb05893c",
-  "changelog": "恢复 v3.0.62 源码的旧版界面；保留数据库兼容，支持 v3.0.95 覆盖更新。新版特有功能不包含在本版。v3.0.93 及更早版本因签名不同，需先备份再迁移安装。"
+  "sha256": "d760da766286f6067d3ce18352e9de3bac00af6f6ac613bcc48f7c76e955a66f",
+  "changelog": "界面重构：三页导航、宝宝头像、阅读日历与全局 AI；知识库新版搜索和导入；记录页顶部固定添加入口。保留数据库迁移与备份兼容，沿用 v3.0.95 / v3.0.96 签名。"
 }
