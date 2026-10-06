@@ -1,11 +1,11 @@
 {
-  "versionCode": 115,
-  "versionName": "3.0.96",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.96/xiaoshiguang-v3.0.96-release.apk",
+  "versionCode": 118,
+  "versionName": "3.1.2",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.2/xiaoshiguang-v3.1.2-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.96/xiaoshiguang-v3.0.96-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.0.96/xiaoshiguang-v3.0.96-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.2/xiaoshiguang-v3.1.2-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.2/xiaoshiguang-v3.1.2-release.apk"
   ],
-  "sha256": "b93039b9c2ca518a3fa4be96e73de4f72d1ae2014e8a0cbf33a64767bb05893c",
-  "changelog": "恢复 v3.0.62 源码的旧版界面；保留数据库兼容，支持 v3.0.95 覆盖更新。新版特有功能不包含在本版。v3.0.93 及更早版本因签名不同，需先备份再迁移安装。"
+  "sha256": "598c9aa27db49b3cd0bb2ac4ebbc7484d5f837b51d88e3252aecdb6b8880ab05",
+  "changelog": "UI 03.12：记录页紧凑卡片与顶部添加阅读、记录成长入口；知识库图片瀑布流与搜索导入；阅读日历点击查看和补记；恢复自动/手动检查更新。全局 AI 与旧数据、备份兼容保持。"
 }
