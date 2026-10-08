@@ -1,11 +1,11 @@
 {
-  "versionCode": 119,
-  "versionName": "3.1.3",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.3/xiaoshiguang-v3.1.3-release.apk",
+  "versionCode": 120,
+  "versionName": "3.1.4",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.4/xiaoshiguang-v3.1.4-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.3/xiaoshiguang-v3.1.3-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.3/xiaoshiguang-v3.1.3-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.4/xiaoshiguang-v3.1.4-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.4/xiaoshiguang-v3.1.4-release.apk"
   ],
-  "sha256": "e3cba90f905bf5d201310d802ade82ca7f3f1c0c1fcce2bc65d7a4d93698c1b7",
-  "changelog": "全新原生界面：今天、书架、时光、知识四页重构；圆弧导航与弹簧切换；AI 助手拖拽、侧边吸附和长按语音；图片笔记瀑布流及全屏翻页；阅读保存反馈与批量撤销；修复语音初始化退出崩溃和纯图片笔记备份恢复。"
+  "sha256": "168412370a83dae77bf0f820ecebc25daf929397e8b33eb9b195d6bb9edb6293",
+  "changelog": "书架行列布局自定义并持久保存；改善切页闪烁与图片加载；AI 完整对话与固定输入区、历史、草稿保留和防重复发送；悬浮助手随滚动柔和淡化；适配深色与大字号。"
 }
