@@ -1,11 +1,11 @@
 {
-  "versionCode": 118,
-  "versionName": "3.1.2",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.2/xiaoshiguang-v3.1.2-release.apk",
+  "versionCode": 119,
+  "versionName": "3.1.3",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.3/xiaoshiguang-v3.1.3-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.2/xiaoshiguang-v3.1.2-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.2/xiaoshiguang-v3.1.2-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.3/xiaoshiguang-v3.1.3-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.3/xiaoshiguang-v3.1.3-release.apk"
   ],
-  "sha256": "598c9aa27db49b3cd0bb2ac4ebbc7484d5f837b51d88e3252aecdb6b8880ab05",
-  "changelog": "UI 03.12：记录页紧凑卡片与顶部添加阅读、记录成长入口；知识库图片瀑布流与搜索导入；阅读日历点击查看和补记；恢复自动/手动检查更新。全局 AI 与旧数据、备份兼容保持。"
+  "sha256": "e3cba90f905bf5d201310d802ade82ca7f3f1c0c1fcce2bc65d7a4d93698c1b7",
+  "changelog": "全新原生界面：今天、书架、时光、知识四页重构；圆弧导航与弹簧切换；AI 助手拖拽、侧边吸附和长按语音；图片笔记瀑布流及全屏翻页；阅读保存反馈与批量撤销；修复语音初始化退出崩溃和纯图片笔记备份恢复。"
 }
