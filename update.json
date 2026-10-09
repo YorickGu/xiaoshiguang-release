@@ -1,11 +1,11 @@
 {
-  "versionCode": 125,
-  "versionName": "3.1.9",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.9/xiaoshiguang-v3.1.9-release.apk",
+  "versionCode": 126,
+  "versionName": "3.1.10",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.10/xiaoshiguang-v3.1.10-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.9/xiaoshiguang-v3.1.9-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.9/xiaoshiguang-v3.1.9-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.10/xiaoshiguang-v3.1.10-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.10/xiaoshiguang-v3.1.10-release.apk"
   ],
-  "sha256": "78fbca3f613e4b403c141ab0b55104f7f104c56ce639d8233d28f0254a59053c",
-  "changelog": "整合当前原生界面与交互优化、知识链接导入、图片相册及小红书内容搜索；支持本地音频库、完整和迷你播放器、后台播放、系统媒体控制与进度恢复。音频副本暂不包含在阅读数据备份中。"
+  "sha256": "993034bc19d083037a5e3408f9a058a84e158de1f317da1467c2eeaf59eba639",
+  "changelog": "邮箱密码账号、个人云库与邀请码家庭共享正式上线。支持书籍封面与电子书、音频文件、图文知识上传下载，提供成员管理、文件鉴权、多选上传进度和失败重试。修复重复图片轮播和音频导入问题。"
 }
