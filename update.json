@@ -1,11 +1,11 @@
 {
-  "versionCode": 120,
-  "versionName": "3.1.4",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.4/xiaoshiguang-v3.1.4-release.apk",
+  "versionCode": 121,
+  "versionName": "3.1.5",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.5/xiaoshiguang-v3.1.5-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.4/xiaoshiguang-v3.1.4-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.4/xiaoshiguang-v3.1.4-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.5/xiaoshiguang-v3.1.5-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.5/xiaoshiguang-v3.1.5-release.apk"
   ],
-  "sha256": "168412370a83dae77bf0f820ecebc25daf929397e8b33eb9b195d6bb9edb6293",
-  "changelog": "书架行列布局自定义并持久保存；改善切页闪烁与图片加载；AI 完整对话与固定输入区、历史、草稿保留和防重复发送；悬浮助手随滚动柔和淡化；适配深色与大字号。"
+  "sha256": "1bbabd2eda6fd496bc67f41497905e09265d71237c1099f86b6ff3cc98401b20",
+  "changelog": "知识库支持从分享链接导入原文正文与完整图片；导入失败或取消时清理临时图片；保留纯文本导入，完善图片笔记备份恢复和界面交互。"
 }
