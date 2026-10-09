@@ -1,11 +1,11 @@
 {
-  "versionCode": 122,
-  "versionName": "3.1.6",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.6/xiaoshiguang-v3.1.6-release.apk",
+  "versionCode": 123,
+  "versionName": "3.1.7",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.7/xiaoshiguang-v3.1.7-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.6/xiaoshiguang-v3.1.6-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.6/xiaoshiguang-v3.1.6-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.7/xiaoshiguang-v3.1.7-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.7/xiaoshiguang-v3.1.7-release.apk"
   ],
-  "sha256": "8813091f0fe9507c3f2b4403224c70a2ded68ffd586734201f1e0db27e4e351c",
-  "changelog": "知识详情、导入预览和编辑页支持横向图片相册；显示张数与分页位置，恢复浏览页码和全屏返回位置；优化翻图、设置封面与删除图片操作。"
+  "sha256": "1461285fe14defb4063e342435c6b2c678c366d8d7c370516a6d1cfa580c14e7",
+  "changelog": "知识库新增小红书内容搜索，支持关键词、主题快捷入口、历史记录和分页；接入官方登录、账号退出、图文预览与导入；优化结果恢复和失败重试。实网登录搜索尚未验收。"
 }
