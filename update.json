@@ -1,11 +1,11 @@
 {
-  "versionCode": 124,
-  "versionName": "3.1.8",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.8/xiaoshiguang-v3.1.8-release.apk",
+  "versionCode": 125,
+  "versionName": "3.1.9",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.9/xiaoshiguang-v3.1.9-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.8/xiaoshiguang-v3.1.8-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.8/xiaoshiguang-v3.1.8-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.9/xiaoshiguang-v3.1.9-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.9/xiaoshiguang-v3.1.9-release.apk"
   ],
-  "sha256": "39d16a28693708ae1d0a0b80b36aa00dc09bdec463d4c72e18c90367cf035d6b",
-  "changelog": "书架新增本地音频库，支持导入、搜索和管理音频；新增完整播放器与跨页面迷你播放器，支持进度调整、倍速、顺序队列、定时关闭、后台播放、系统媒体控制和进度恢复。音频副本暂不包含在阅读数据备份中。"
+  "sha256": "78fbca3f613e4b403c141ab0b55104f7f104c56ce639d8233d28f0254a59053c",
+  "changelog": "整合当前原生界面与交互优化、知识链接导入、图片相册及小红书内容搜索；支持本地音频库、完整和迷你播放器、后台播放、系统媒体控制与进度恢复。音频副本暂不包含在阅读数据备份中。"
 }
