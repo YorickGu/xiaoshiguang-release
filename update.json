@@ -1,11 +1,11 @@
 {
-  "versionCode": 126,
-  "versionName": "3.1.10",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.10/xiaoshiguang-v3.1.10-release.apk",
+  "versionCode": 127,
+  "versionName": "3.1.11",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.11/xiaoshiguang-v3.1.11-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.10/xiaoshiguang-v3.1.10-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.10/xiaoshiguang-v3.1.10-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.11/xiaoshiguang-v3.1.11-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.11/xiaoshiguang-v3.1.11-release.apk"
   ],
-  "sha256": "993034bc19d083037a5e3408f9a058a84e158de1f317da1467c2eeaf59eba639",
-  "changelog": "邮箱密码账号、个人云库与邀请码家庭共享正式上线。支持书籍封面与电子书、音频文件、图文知识上传下载，提供成员管理、文件鉴权、多选上传进度和失败重试。修复重复图片轮播和音频导入问题。"
+  "sha256": "24e982d91c60a09176549c2438704e5c6ed5d5001ff1e560781eb3a24245cc5f",
+  "changelog": "修复备份恢复的 .image 书籍封面和知识图片被拒绝上传的问题；支持按文件头识别 JPEG、PNG、GIF、WebP 和无后缀图片，保留原文件名称与字节，保持重复上传和失败重试的内容标识稳定。"
 }
