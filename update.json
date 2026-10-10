@@ -1,11 +1,11 @@
 {
-  "versionCode": 131,
-  "versionName": "3.1.15",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.15/xiaoshiguang-v3.1.15-release.apk",
+  "versionCode": 132,
+  "versionName": "3.1.16",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.16/xiaoshiguang-v3.1.16-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.15/xiaoshiguang-v3.1.15-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.15/xiaoshiguang-v3.1.15-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.16/xiaoshiguang-v3.1.16-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.16/xiaoshiguang-v3.1.16-release.apk"
   ],
-  "sha256": "2c83c2086e022044b1fd10ff7e4fc7cb2c3690a3bc03db04fe15bf258a3ffc99",
-  "changelog": "云同步提速：无变化只检查云端版本，不重复下载与上传完整备份，重启后保留同步校验点。个人云库重新设计，紧凑状态条随内容滚动，点击查看备份详情与重试；支持深色和大字体。保留首次登录去重合并、图片与成就备份、更新下载断点续传。"
+  "sha256": "c3e31ce8a927ac7966c94ba101053de700867e3693390ae2b74317bd0780bbe3",
+  "changelog": "优化宝宝与设置的进入和返回体验：前进与返回方向一致，短促无弹跳，过渡期间保留完整页面。返回设置列表恢复原滚动位置，背景主页与浮动助手保持稳定；尊重系统关闭动效。保留完整个人云备份、无变化同步快路径与更新断点续传。"
 }
