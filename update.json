@@ -1,11 +1,11 @@
 {
-  "versionCode": 127,
-  "versionName": "3.1.11",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.11/xiaoshiguang-v3.1.11-release.apk",
+  "versionCode": 128,
+  "versionName": "3.1.12",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.12/xiaoshiguang-v3.1.12-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.11/xiaoshiguang-v3.1.11-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.11/xiaoshiguang-v3.1.11-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.12/xiaoshiguang-v3.1.12-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.12/xiaoshiguang-v3.1.12-release.apk"
   ],
-  "sha256": "24e982d91c60a09176549c2438704e5c6ed5d5001ff1e560781eb3a24245cc5f",
-  "changelog": "修复备份恢复的 .image 书籍封面和知识图片被拒绝上传的问题；支持按文件头识别 JPEG、PNG、GIF、WebP 和无后缀图片，保留原文件名称与字节，保持重复上传和失败重试的内容标识稳定。"
+  "sha256": "cd22cd2f5f0ead5c785029755a7d5218178f4f8dc90bb8837753e35ae9cea1c9",
+  "changelog": "阅读打卡支持个人云备份：登录后自动保存已有和新增记录，包括日期、时长、心情、备注及照片；个人云库新增打卡页，支持查看与合并恢复，重复恢复不重复累计阅读时长。阅读记录仅本人可见，禁止家庭共享。"
 }
