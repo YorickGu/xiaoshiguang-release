@@ -1,11 +1,11 @@
 {
-  "versionCode": 129,
-  "versionName": "3.1.13",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.13/xiaoshiguang-v3.1.13-release.apk",
+  "versionCode": 130,
+  "versionName": "3.1.14",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.14/xiaoshiguang-v3.1.14-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.13/xiaoshiguang-v3.1.13-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.13/xiaoshiguang-v3.1.13-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.14/xiaoshiguang-v3.1.14-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.14/xiaoshiguang-v3.1.14-release.apk"
   ],
-  "sha256": "17c84bda7c77fcb406586a09c4afd7003db3401806fe70c416811e0e3257a2ff",
-  "changelog": "恢复更新下载断点续传：支持暂停与继续，网络中断或重新打开应用后保留下载进度，重试及切换下载源继续下载；下载完成验证 SHA-256。保留阅读打卡个人云备份。"
+  "sha256": "a1e603364f1f886285fa8ea7126f560d7d03f4fd3ecee24a1f3c7ed0d463f2a2",
+  "changelog": "完整个人云备份：书籍及封面、阅读和成长记录及图片、成就与奖励全部自动保存；首次登录智能去重合并本地与云端，保留不同事件，不重复累计时长与星星；支持旧阅读备份迁入和多设备冲突合并。保留更新下载暂停与断点续传。"
 }
