@@ -1,11 +1,11 @@
 {
-  "versionCode": 128,
-  "versionName": "3.1.12",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.12/xiaoshiguang-v3.1.12-release.apk",
+  "versionCode": 129,
+  "versionName": "3.1.13",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.13/xiaoshiguang-v3.1.13-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.12/xiaoshiguang-v3.1.12-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.12/xiaoshiguang-v3.1.12-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.13/xiaoshiguang-v3.1.13-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.13/xiaoshiguang-v3.1.13-release.apk"
   ],
-  "sha256": "cd22cd2f5f0ead5c785029755a7d5218178f4f8dc90bb8837753e35ae9cea1c9",
-  "changelog": "阅读打卡支持个人云备份：登录后自动保存已有和新增记录，包括日期、时长、心情、备注及照片；个人云库新增打卡页，支持查看与合并恢复，重复恢复不重复累计阅读时长。阅读记录仅本人可见，禁止家庭共享。"
+  "sha256": "17c84bda7c77fcb406586a09c4afd7003db3401806fe70c416811e0e3257a2ff",
+  "changelog": "恢复更新下载断点续传：支持暂停与继续，网络中断或重新打开应用后保留下载进度，重试及切换下载源继续下载；下载完成验证 SHA-256。保留阅读打卡个人云备份。"
 }
