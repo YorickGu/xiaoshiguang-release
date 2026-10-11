@@ -1,11 +1,11 @@
 {
-  "versionCode": 133,
-  "versionName": "3.1.17",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.17/xiaoshiguang-v3.1.17-release.apk",
+  "versionCode": 134,
+  "versionName": "3.1.18",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.18/xiaoshiguang-v3.1.18-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.17/xiaoshiguang-v3.1.17-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.17/xiaoshiguang-v3.1.17-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.18/xiaoshiguang-v3.1.18-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.18/xiaoshiguang-v3.1.18-release.apk"
   ],
-  "sha256": "e4637ef58a3de60a65509e2585d9b95efc21a935db44b52007c8e38e1032fc78",
-  "changelog": "新增小红书搜索详细诊断日志：记录手机与 WebView 环境、页面和接口状态、登录字段、结果条数及结束原因，每次搜索有独立编号。新增摘要不保存搜索词、Cookie、Token 或正文。保留现有搜索规则，供问题手机更新后复现并导出日志定位原因。"
+  "sha256": "b8a59ef7ce1cbc39ebbc8b7c44908c0323cbb4765708e5fdd23e48d1838d683e",
+  "changelog": "修复小红书搜索在慢网络或部分 WebView 上过早显示“没有相关内容”的问题。已登录且搜索数据仍在加载时继续等待；只有接口确认成功返回空列表且没有进行中的请求时才判定无结果。等待超时将明确提示取数超时，保留脱敏诊断日志。"
 }
