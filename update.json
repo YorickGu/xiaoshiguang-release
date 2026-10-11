@@ -1,11 +1,11 @@
 {
-  "versionCode": 132,
-  "versionName": "3.1.16",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.16/xiaoshiguang-v3.1.16-release.apk",
+  "versionCode": 133,
+  "versionName": "3.1.17",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.17/xiaoshiguang-v3.1.17-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.16/xiaoshiguang-v3.1.16-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.16/xiaoshiguang-v3.1.16-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.17/xiaoshiguang-v3.1.17-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.17/xiaoshiguang-v3.1.17-release.apk"
   ],
-  "sha256": "c3e31ce8a927ac7966c94ba101053de700867e3693390ae2b74317bd0780bbe3",
-  "changelog": "优化宝宝与设置的进入和返回体验：前进与返回方向一致，短促无弹跳，过渡期间保留完整页面。返回设置列表恢复原滚动位置，背景主页与浮动助手保持稳定；尊重系统关闭动效。保留完整个人云备份、无变化同步快路径与更新断点续传。"
+  "sha256": "e4637ef58a3de60a65509e2585d9b95efc21a935db44b52007c8e38e1032fc78",
+  "changelog": "新增小红书搜索详细诊断日志：记录手机与 WebView 环境、页面和接口状态、登录字段、结果条数及结束原因，每次搜索有独立编号。新增摘要不保存搜索词、Cookie、Token 或正文。保留现有搜索规则，供问题手机更新后复现并导出日志定位原因。"
 }
