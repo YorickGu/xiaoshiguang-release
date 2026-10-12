@@ -1,11 +1,11 @@
 {
-  "versionCode": 137,
-  "versionName": "3.1.21",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.21/xiaoshiguang-v3.1.21-release.apk",
+  "versionCode": 138,
+  "versionName": "3.1.22",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.22/xiaoshiguang-v3.1.22-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.21/xiaoshiguang-v3.1.21-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.21/xiaoshiguang-v3.1.21-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.22/xiaoshiguang-v3.1.22-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.22/xiaoshiguang-v3.1.22-release.apk"
   ],
-  "sha256": "a32433e8e02c4e3b9a666c423c08a9fd32c8dcdc1a53a55dab435724a5dbefdc",
-  "changelog": "优化连续左右滑动：下一次拖动可接管未结束的动画，页面从当前位置跟随手指；松手确定目标页后底部 Tab 立即切换，保留搜索、筛选及滚动状态。"
+  "sha256": "c5744448d9845c1e7dc804ee7ac8e631021a3b1396433fa000514d8e118f8d4c",
+  "changelog": "统一全页面视觉风格，集中管理颜色、圆角、字号和动效；优化浅深色主题、日期时间弹窗与大字号布局，保留主页面滑动切换。"
 }
