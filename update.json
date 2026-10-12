@@ -1,11 +1,11 @@
 {
-  "versionCode": 141,
-  "versionName": "3.1.25",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.25/xiaoshiguang-v3.1.25-release.apk",
+  "versionCode": 142,
+  "versionName": "3.1.26",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.26/xiaoshiguang-v3.1.26-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.25/xiaoshiguang-v3.1.25-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.25/xiaoshiguang-v3.1.25-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.26/xiaoshiguang-v3.1.26-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.26/xiaoshiguang-v3.1.26-release.apk"
   ],
-  "sha256": "7b541875a76d7b44dd0da266fc8ec7becd93319cdbcd0a10b66721e97b9c0fea",
-  "changelog": "优化书架书籍样式，以封面和两行书名为主体，保留布局设置与点击交互；包含当前页面主题、导航与动效优化。"
+  "sha256": "848c2fc57de34da4a16980c8e2bd39c1008c753d8f8097339c00e90dfe828f41",
+  "changelog": "统一个人云库和家庭共享的书籍样式，与我的书架保持一致并缩小为三列封面；优化个人云库入口的云朵书本图标，去掉双层边框。"
 }
