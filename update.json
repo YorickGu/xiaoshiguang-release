@@ -1,11 +1,11 @@
 {
-  "versionCode": 140,
-  "versionName": "3.1.24",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.24/xiaoshiguang-v3.1.24-release.apk",
+  "versionCode": 141,
+  "versionName": "3.1.25",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.25/xiaoshiguang-v3.1.25-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.24/xiaoshiguang-v3.1.24-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.24/xiaoshiguang-v3.1.24-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.25/xiaoshiguang-v3.1.25-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.25/xiaoshiguang-v3.1.25-release.apk"
   ],
-  "sha256": "cde29ca5393bfbd4fc0b092dccfe9c5b2966f1d434bd7f57aefbf2ca4e6c9fc6",
-  "changelog": "统一全页面视觉风格，集中管理颜色、圆角、字号和动效；优化浅深色主题、日期时间弹窗与大字号布局，保留主页面滑动切换。"
+  "sha256": "7b541875a76d7b44dd0da266fc8ec7becd93319cdbcd0a10b66721e97b9c0fea",
+  "changelog": "优化书架书籍样式，以封面和两行书名为主体，保留布局设置与点击交互；包含当前页面主题、导航与动效优化。"
 }
