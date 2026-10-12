@@ -1,11 +1,11 @@
 {
-  "versionCode": 138,
-  "versionName": "3.1.22",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.22/xiaoshiguang-v3.1.22-release.apk",
+  "versionCode": 139,
+  "versionName": "3.1.23",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.23/xiaoshiguang-v3.1.23-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.22/xiaoshiguang-v3.1.22-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.22/xiaoshiguang-v3.1.22-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.23/xiaoshiguang-v3.1.23-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.23/xiaoshiguang-v3.1.23-release.apk"
   ],
-  "sha256": "c5744448d9845c1e7dc804ee7ac8e631021a3b1396433fa000514d8e118f8d4c",
+  "sha256": "db4b6a2a49ab2b947bf1ed66d598fd6b186a1157ae3894dcb0bf093b89374f4d",
   "changelog": "统一全页面视觉风格，集中管理颜色、圆角、字号和动效；优化浅深色主题、日期时间弹窗与大字号布局，保留主页面滑动切换。"
 }
