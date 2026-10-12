@@ -1,11 +1,11 @@
 {
-  "versionCode": 134,
-  "versionName": "3.1.18",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.18/xiaoshiguang-v3.1.18-release.apk",
+  "versionCode": 135,
+  "versionName": "3.1.19",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.19/xiaoshiguang-v3.1.19-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.18/xiaoshiguang-v3.1.18-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.18/xiaoshiguang-v3.1.18-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.19/xiaoshiguang-v3.1.19-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.19/xiaoshiguang-v3.1.19-release.apk"
   ],
-  "sha256": "b8a59ef7ce1cbc39ebbc8b7c44908c0323cbb4765708e5fdd23e48d1838d683e",
-  "changelog": "修复小红书搜索在慢网络或部分 WebView 上过早显示“没有相关内容”的问题。已登录且搜索数据仍在加载时继续等待；只有接口确认成功返回空列表且没有进行中的请求时才判定无结果。等待超时将明确提示取数超时，保留脱敏诊断日志。"
+  "sha256": "9d23455bb5fb5f9393243c60bad51b487c67dd897f189fba1b703b344e7db2ab",
+  "changelog": "优化更新检查：移除持续滞后的 jsDelivr 更新清单，优先使用 gh-proxy 加速代理，失败时回退至 GitHub 直连。安装包保留双源下载与 SHA-256 校验，减少旧缓存对版本检查的影响。"
 }
