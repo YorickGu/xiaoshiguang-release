@@ -1,11 +1,11 @@
 {
-  "versionCode": 145,
-  "versionName": "3.1.29",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.29/xiaoshiguang-v3.1.29-release.apk",
+  "versionCode": 146,
+  "versionName": "3.1.30",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.30/xiaoshiguang-v3.1.30-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.29/xiaoshiguang-v3.1.29-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.29/xiaoshiguang-v3.1.29-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.30/xiaoshiguang-v3.1.30-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.30/xiaoshiguang-v3.1.30-release.apk"
   ],
-  "sha256": "b1d18b16e783ab65ca44e961e4ddfb9741ad7072f0c9c03129cc2e95536add0b",
-  "changelog": "修复 AI 助手联网搜索状态说明，按今日、近期等查询限定搜索时间范围并保留网页发布时间；包含当前知识阅读排版优化。"
+  "sha256": "c582bd371c50ffdf3b3ea7ad1d50633d47212bd47319b3fe1ca1a475a31a88a3",
+  "changelog": "AI 助手新增本地图书、历史打卡、音频目录和知识库关键词检索，支持日期范围与多轮追问，回答可参考匹配数据。"
 }
