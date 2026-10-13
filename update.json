@@ -1,11 +1,11 @@
 {
-  "versionCode": 142,
-  "versionName": "3.1.26",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.26/xiaoshiguang-v3.1.26-release.apk",
+  "versionCode": 143,
+  "versionName": "3.1.27",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.27/xiaoshiguang-v3.1.27-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.26/xiaoshiguang-v3.1.26-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.26/xiaoshiguang-v3.1.26-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.27/xiaoshiguang-v3.1.27-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.27/xiaoshiguang-v3.1.27-release.apk"
   ],
-  "sha256": "848c2fc57de34da4a16980c8e2bd39c1008c753d8f8097339c00e90dfe828f41",
-  "changelog": "统一个人云库和家庭共享的书籍样式，与我的书架保持一致并缩小为三列封面；优化个人云库入口的云朵书本图标，去掉双层边框。"
+  "sha256": "1758651323bdc5254b926af3c763b92fa387f510d7c5e59a4b0566939f804c23",
+  "changelog": "知识库新增原文重新排版，预览整理稿后再确认使用，支持保留与恢复原文；完善长内容、图片和备份保存。"
 }
