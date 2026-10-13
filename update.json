@@ -1,11 +1,11 @@
 {
-  "versionCode": 144,
-  "versionName": "3.1.28",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.28/xiaoshiguang-v3.1.28-release.apk",
+  "versionCode": 145,
+  "versionName": "3.1.29",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.29/xiaoshiguang-v3.1.29-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.28/xiaoshiguang-v3.1.28-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.28/xiaoshiguang-v3.1.28-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.29/xiaoshiguang-v3.1.29-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.29/xiaoshiguang-v3.1.29-release.apk"
   ],
-  "sha256": "e960341f0fb87cc25469ae397511005e8ed3c4fbe6efbd81436cda6e8ef8257c",
-  "changelog": "优化知识库原文与整理稿阅读排版，统一话题标签、编号段落和预览保存效果，改善窄屏、深色和大字号显示。"
+  "sha256": "b1d18b16e783ab65ca44e961e4ddfb9741ad7072f0c9c03129cc2e95536add0b",
+  "changelog": "修复 AI 助手联网搜索状态说明，按今日、近期等查询限定搜索时间范围并保留网页发布时间；包含当前知识阅读排版优化。"
 }
