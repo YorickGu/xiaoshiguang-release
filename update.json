@@ -1,11 +1,11 @@
 {
-  "versionCode": 143,
-  "versionName": "3.1.27",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.27/xiaoshiguang-v3.1.27-release.apk",
+  "versionCode": 144,
+  "versionName": "3.1.28",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.28/xiaoshiguang-v3.1.28-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.27/xiaoshiguang-v3.1.27-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.27/xiaoshiguang-v3.1.27-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.28/xiaoshiguang-v3.1.28-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.28/xiaoshiguang-v3.1.28-release.apk"
   ],
-  "sha256": "1758651323bdc5254b926af3c763b92fa387f510d7c5e59a4b0566939f804c23",
-  "changelog": "知识库新增原文重新排版，预览整理稿后再确认使用，支持保留与恢复原文；完善长内容、图片和备份保存。"
+  "sha256": "e960341f0fb87cc25469ae397511005e8ed3c4fbe6efbd81436cda6e8ef8257c",
+  "changelog": "优化知识库原文与整理稿阅读排版，统一话题标签、编号段落和预览保存效果，改善窄屏、深色和大字号显示。"
 }
