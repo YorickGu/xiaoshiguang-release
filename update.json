@@ -1,11 +1,11 @@
 {
-  "versionCode": 146,
-  "versionName": "3.1.30",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.30/xiaoshiguang-v3.1.30-release.apk",
+  "versionCode": 147,
+  "versionName": "3.1.31",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.31/xiaoshiguang-v3.1.31-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.30/xiaoshiguang-v3.1.30-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.30/xiaoshiguang-v3.1.30-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.31/xiaoshiguang-v3.1.31-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.31/xiaoshiguang-v3.1.31-release.apk"
   ],
-  "sha256": "c582bd371c50ffdf3b3ea7ad1d50633d47212bd47319b3fe1ca1a475a31a88a3",
-  "changelog": "AI 助手新增本地图书、历史打卡、音频目录和知识库关键词检索，支持日期范围与多轮追问，回答可参考匹配数据。"
+  "sha256": "f0be0ddbfaffa79e305920c91b3cadffbc596cf03b4457d0994730349b3a6839",
+  "changelog": "AI 助手新增本地能力 Agent：查询书架和阅读记录、设置每日阅读提醒、查询与创建系统日程；支持原生授权卡片、任务暂停恢复、失败重试与重复写入核查。"
 }
