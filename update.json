@@ -1,11 +1,11 @@
 {
-  "versionCode": 152,
-  "versionName": "3.1.36",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.36/xiaoshiguang-v3.1.36-release.apk",
+  "versionCode": 153,
+  "versionName": "3.1.37",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.37/xiaoshiguang-v3.1.37-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.36/xiaoshiguang-v3.1.36-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.36/xiaoshiguang-v3.1.36-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.37/xiaoshiguang-v3.1.37-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.37/xiaoshiguang-v3.1.37-release.apk"
   ],
-  "sha256": "f0b4b8049c8ff968aecd0ece2382089b6347baa1e16b70869f6c3a555dfa1be6",
-  "changelog": "完善 Agent 能力卡片与授权交互、语音提问和输入体验，优化书籍阅读历史与时光分组。"
+  "sha256": "3202b24ff6b64c101f97a16f97dcee248db4f5a0eeb8421948ae20878fd615f0",
+  "changelog": "优化 Agent 智能联网与失败恢复、AI 图文回复展示和轻量思考默认设置，改进语音模型下载与输入体验。"
 }
