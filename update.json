@@ -1,11 +1,11 @@
 {
-  "versionCode": 149,
-  "versionName": "3.1.33",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.33/xiaoshiguang-v3.1.33-release.apk",
+  "versionCode": 150,
+  "versionName": "3.1.34",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.34/xiaoshiguang-v3.1.34-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.33/xiaoshiguang-v3.1.33-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.33/xiaoshiguang-v3.1.33-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.34/xiaoshiguang-v3.1.34-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.34/xiaoshiguang-v3.1.34-release.apk"
   ],
-  "sha256": "864ebfa52a878d87a472e8f2404c239b1e2b23cfa68670ac6a74b7c755dc9950",
-  "changelog": "完善 AI Agent 原生输入表单、授权与任务交互，优化工具参数和模型兼容性。"
+  "sha256": "ba49fb778bf38066306f501315d8d52c24915d08131d7375464f04f851d4f40a",
+  "changelog": "优化 AI Agent 表单输入、任务编排及模型兼容性，完善输入回归校验。"
 }
