@@ -1,11 +1,11 @@
 {
-  "versionCode": 151,
-  "versionName": "3.1.35",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.35/xiaoshiguang-v3.1.35-release.apk",
+  "versionCode": 152,
+  "versionName": "3.1.36",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.36/xiaoshiguang-v3.1.36-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.35/xiaoshiguang-v3.1.35-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.35/xiaoshiguang-v3.1.35-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.36/xiaoshiguang-v3.1.36-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.36/xiaoshiguang-v3.1.36-release.apk"
   ],
-  "sha256": "2446dbe55daa891a6d564a25f8a7205b97d3425aa3fa37ed7338a5eda5c14efa",
-  "changelog": "优化 Agent 输入卡片逐项填写、直接提交和滚动定位，完善提交授权、任务交互与模型协议。"
+  "sha256": "f0b4b8049c8ff968aecd0ece2382089b6347baa1e16b70869f6c3a555dfa1be6",
+  "changelog": "完善 Agent 能力卡片与授权交互、语音提问和输入体验，优化书籍阅读历史与时光分组。"
 }
