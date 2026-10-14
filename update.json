@@ -1,11 +1,11 @@
 {
-  "versionCode": 147,
-  "versionName": "3.1.31",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.31/xiaoshiguang-v3.1.31-release.apk",
+  "versionCode": 148,
+  "versionName": "3.1.32",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.32/xiaoshiguang-v3.1.32-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.31/xiaoshiguang-v3.1.31-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.31/xiaoshiguang-v3.1.31-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.32/xiaoshiguang-v3.1.32-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.32/xiaoshiguang-v3.1.32-release.apk"
   ],
-  "sha256": "f0be0ddbfaffa79e305920c91b3cadffbc596cf03b4457d0994730349b3a6839",
-  "changelog": "AI 助手新增本地能力 Agent：查询书架和阅读记录、设置每日阅读提醒、查询与创建系统日程；支持原生授权卡片、任务暂停恢复、失败重试与重复写入核查。"
+  "sha256": "7982fff4d5cf183b5c854235b3a591b785598f818eca0b20bd843bb4f90e4a4e",
+  "changelog": "AI 助手接入 Koog 编排与模型执行，保留原生授权、任务暂停恢复和重复写入核查；优化 Android 兼容与发布混淆配置。"
 }
