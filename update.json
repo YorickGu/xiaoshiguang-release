@@ -1,11 +1,11 @@
 {
-  "versionCode": 159,
-  "versionName": "3.1.43",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.43/xiaoshiguang-v3.1.43-release.apk",
+  "versionCode": 160,
+  "versionName": "3.1.44",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.44/xiaoshiguang-v3.1.44-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.43/xiaoshiguang-v3.1.43-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.43/xiaoshiguang-v3.1.43-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.44/xiaoshiguang-v3.1.44-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.44/xiaoshiguang-v3.1.44-release.apk"
   ],
-  "sha256": "d1d1d2f38eea36a82f4579f0cfedfb0b0c5a6e182a12524dcc41f572992cd3cd",
-  "changelog": "更新底部 AI 胶囊导航，统一单本阅读打卡统计、按日展开记录及补记入口。"
+  "sha256": "20eee37684c559db6fcd36cec124938fc5dcffad49b8681f344440038d5399c1",
+  "changelog": "优化底部导航布局，释放页面内容空间，保持大字体导航高度自适应。"
 }
