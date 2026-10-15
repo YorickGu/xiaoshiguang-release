@@ -1,11 +1,11 @@
 {
-  "versionCode": 155,
-  "versionName": "3.1.39",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.39/xiaoshiguang-v3.1.39-release.apk",
+  "versionCode": 156,
+  "versionName": "3.1.40",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.40/xiaoshiguang-v3.1.40-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.39/xiaoshiguang-v3.1.39-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.39/xiaoshiguang-v3.1.39-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.40/xiaoshiguang-v3.1.40-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.40/xiaoshiguang-v3.1.40-release.apk"
   ],
-  "sha256": "b3ec66473b490e1796ecee7c23c959745fb72aae3f80a0bdf8e00b337d6fc465",
-  "changelog": "优化 AI 输入区、图文回复展示与会话交互体验。"
+  "sha256": "4ae1bf144033c1404a27a61f3e119df511bcc475245c3662690f05c554892170",
+  "changelog": "修复跨会话 Agent 任务阻塞及停止后 HTML 回复显示源码，优化轻量思考默认设置和输入体验。"
 }
