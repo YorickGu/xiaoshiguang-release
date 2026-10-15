@@ -1,11 +1,11 @@
 {
-  "versionCode": 158,
-  "versionName": "3.1.42",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.42/xiaoshiguang-v3.1.42-release.apk",
+  "versionCode": 159,
+  "versionName": "3.1.43",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.43/xiaoshiguang-v3.1.43-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.42/xiaoshiguang-v3.1.42-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.42/xiaoshiguang-v3.1.42-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.43/xiaoshiguang-v3.1.43-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.43/xiaoshiguang-v3.1.43-release.apk"
   ],
-  "sha256": "95449b35bc001cd4cbdd9d8038374980d5d0feff9d40e28d1aac79b38bd92607",
-  "changelog": "优化 AI 输入区布局与语音交互，改进图文报告及静态图表渲染。"
+  "sha256": "d1d1d2f38eea36a82f4579f0cfedfb0b0c5a6e182a12524dcc41f572992cd3cd",
+  "changelog": "更新底部 AI 胶囊导航，统一单本阅读打卡统计、按日展开记录及补记入口。"
 }
