@@ -1,11 +1,11 @@
 {
-  "versionCode": 156,
-  "versionName": "3.1.40",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.40/xiaoshiguang-v3.1.40-release.apk",
+  "versionCode": 157,
+  "versionName": "3.1.41",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.41/xiaoshiguang-v3.1.41-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.40/xiaoshiguang-v3.1.40-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.40/xiaoshiguang-v3.1.40-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.41/xiaoshiguang-v3.1.41-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.41/xiaoshiguang-v3.1.41-release.apk"
   ],
-  "sha256": "4ae1bf144033c1404a27a61f3e119df511bcc475245c3662690f05c554892170",
-  "changelog": "修复跨会话 Agent 任务阻塞及停止后 HTML 回复显示源码，优化轻量思考默认设置和输入体验。"
+  "sha256": "3beacd8a34c371a9129e7504f18b08d559392119673bd7ebdeec952e4c9d9ddf",
+  "changelog": "优化主要页面的内容布局与间距，简化 AI 输入，支持 Agent 按需联网检索和书架共读推荐卡片。"
 }
