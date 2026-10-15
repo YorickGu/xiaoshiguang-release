@@ -1,11 +1,11 @@
 {
-  "versionCode": 154,
-  "versionName": "3.1.38",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.38/xiaoshiguang-v3.1.38-release.apk",
+  "versionCode": 155,
+  "versionName": "3.1.39",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.39/xiaoshiguang-v3.1.39-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.38/xiaoshiguang-v3.1.38-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.38/xiaoshiguang-v3.1.38-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.39/xiaoshiguang-v3.1.39-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.39/xiaoshiguang-v3.1.39-release.apk"
   ],
-  "sha256": "fe5a95d3857b600d1736fa1b64f6d2571c4d3aa819af91a9a7151036589fc9b4",
-  "changelog": "优化 AI 会话新建与历史查看、Agent 补充信息和新问题的衔接，以及 HTML 图文回复展示。"
+  "sha256": "b3ec66473b490e1796ecee7c23c959745fb72aae3f80a0bdf8e00b337d6fc465",
+  "changelog": "优化 AI 输入区、图文回复展示与会话交互体验。"
 }
