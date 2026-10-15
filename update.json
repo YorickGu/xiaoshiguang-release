@@ -1,11 +1,11 @@
 {
-  "versionCode": 160,
-  "versionName": "3.1.44",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.44/xiaoshiguang-v3.1.44-release.apk",
+  "versionCode": 161,
+  "versionName": "3.1.45",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.45/xiaoshiguang-v3.1.45-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.44/xiaoshiguang-v3.1.44-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.44/xiaoshiguang-v3.1.44-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.45/xiaoshiguang-v3.1.45-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.45/xiaoshiguang-v3.1.45-release.apk"
   ],
-  "sha256": "20eee37684c559db6fcd36cec124938fc5dcffad49b8681f344440038d5399c1",
-  "changelog": "优化底部导航布局，释放页面内容空间，保持大字体导航高度自适应。"
+  "sha256": "372dd13aadd1018d16799447362dc7144fd92d8a0afe8609b3e710e953c755c3",
+  "changelog": "新增助手记忆与技能库及可确认的管理操作，优化语音输入与底部导航交互。"
 }
