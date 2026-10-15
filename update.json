@@ -1,11 +1,11 @@
 {
-  "versionCode": 153,
-  "versionName": "3.1.37",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.37/xiaoshiguang-v3.1.37-release.apk",
+  "versionCode": 154,
+  "versionName": "3.1.38",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.38/xiaoshiguang-v3.1.38-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.37/xiaoshiguang-v3.1.37-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.37/xiaoshiguang-v3.1.37-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.38/xiaoshiguang-v3.1.38-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.38/xiaoshiguang-v3.1.38-release.apk"
   ],
-  "sha256": "3202b24ff6b64c101f97a16f97dcee248db4f5a0eeb8421948ae20878fd615f0",
-  "changelog": "优化 Agent 智能联网与失败恢复、AI 图文回复展示和轻量思考默认设置，改进语音模型下载与输入体验。"
+  "sha256": "fe5a95d3857b600d1736fa1b64f6d2571c4d3aa819af91a9a7151036589fc9b4",
+  "changelog": "优化 AI 会话新建与历史查看、Agent 补充信息和新问题的衔接，以及 HTML 图文回复展示。"
 }
