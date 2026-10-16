@@ -1,11 +1,11 @@
 {
-  "versionCode": 163,
-  "versionName": "3.1.47",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.47/xiaoshiguang-v3.1.47-release.apk",
+  "versionCode": 164,
+  "versionName": "3.1.48",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.48/xiaoshiguang-v3.1.48-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.47/xiaoshiguang-v3.1.47-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.47/xiaoshiguang-v3.1.47-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.48/xiaoshiguang-v3.1.48-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.48/xiaoshiguang-v3.1.48-release.apk"
   ],
-  "sha256": "33d66d60fd5bdd6ab336bf3e1ff32b6556a9f1a0787220fb6ec7066d864bad6e",
-  "changelog": "新增通用 MCP 服务接入、市场配置导入与连接测试，可选择工具供 AI 助手经确认后调用。"
+  "sha256": "2b533c35462cac3c6f5a7dd94b7fa2acb305042e19e2aaa5a9217969d16435c4",
+  "changelog": "优化 MCP 原生市场和搜索过程，新增可撤销的自动授权、知识笔记图文重整及富文本保存，改进语音启动与阅读记录体验。"
 }
