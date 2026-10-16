@@ -1,11 +1,11 @@
 {
-  "versionCode": 166,
-  "versionName": "3.1.50",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.50/xiaoshiguang-v3.1.50-release.apk",
+  "versionCode": 167,
+  "versionName": "3.1.51",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.51/xiaoshiguang-v3.1.51-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.50/xiaoshiguang-v3.1.50-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.50/xiaoshiguang-v3.1.50-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.51/xiaoshiguang-v3.1.51-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.51/xiaoshiguang-v3.1.51-release.apk"
   ],
-  "sha256": "50438b25296090e60f8ce554098f0d2bcc1d96c4282f76c97ba570d6cf783bb7",
-  "changelog": "优化 AI 思考与工具执行过程展示、Skill 上下文入口，改进阅读记录、知识图文重整与 MCP 配置体验。"
+  "sha256": "d57dc14ddc8e335def758712188fe268f74169c569b83f137e8bea1d7bf204a6",
+  "changelog": "优化 AI 设置入口与记忆、Skill 管理；改进 MCP 服务发现、接入引导和目录配置导入，增加百炼服务适配。"
 }
