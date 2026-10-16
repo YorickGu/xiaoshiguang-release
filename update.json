@@ -1,11 +1,11 @@
 {
-  "versionCode": 164,
-  "versionName": "3.1.48",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.48/xiaoshiguang-v3.1.48-release.apk",
+  "versionCode": 165,
+  "versionName": "3.1.49",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.49/xiaoshiguang-v3.1.49-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.48/xiaoshiguang-v3.1.48-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.48/xiaoshiguang-v3.1.48-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.49/xiaoshiguang-v3.1.49-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.49/xiaoshiguang-v3.1.49-release.apk"
   ],
-  "sha256": "2b533c35462cac3c6f5a7dd94b7fa2acb305042e19e2aaa5a9217969d16435c4",
-  "changelog": "优化 MCP 原生市场和搜索过程，新增可撤销的自动授权、知识笔记图文重整及富文本保存，改进语音启动与阅读记录体验。"
+  "sha256": "29b89cf8d11138a1c58d5be6b88f5aff1df0ae14422012bbb42b6ce1f10bd15b",
+  "changelog": "优化 AI 思考与工具执行过程展示、Skill 上下文入口和全局授权设置，改进助手交互体验。"
 }
