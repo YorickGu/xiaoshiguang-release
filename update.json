@@ -1,11 +1,11 @@
 {
-  "versionCode": 161,
-  "versionName": "3.1.45",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.45/xiaoshiguang-v3.1.45-release.apk",
+  "versionCode": 162,
+  "versionName": "3.1.46",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.46/xiaoshiguang-v3.1.46-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.45/xiaoshiguang-v3.1.45-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.45/xiaoshiguang-v3.1.45-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.46/xiaoshiguang-v3.1.46-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.46/xiaoshiguang-v3.1.46-release.apk"
   ],
-  "sha256": "372dd13aadd1018d16799447362dc7144fd92d8a0afe8609b3e710e953c755c3",
-  "changelog": "新增助手记忆与技能库及可确认的管理操作，优化语音输入与底部导航交互。"
+  "sha256": "d7a8dd901ec225374f715d95946ef5d88e5efaaf4d0497ffb732a8145d937261",
+  "changelog": "优化底部导航中部凸起造型、渐变麦克风按钮及深浅色样式，保留点击 AI 搜索和长按语音输入。"
 }
