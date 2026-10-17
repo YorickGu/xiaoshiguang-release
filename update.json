@@ -1,11 +1,11 @@
 {
-  "versionCode": 168,
-  "versionName": "3.1.52",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.52/xiaoshiguang-v3.1.52-release.apk",
+  "versionCode": 169,
+  "versionName": "3.1.53",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.53/xiaoshiguang-v3.1.53-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.52/xiaoshiguang-v3.1.52-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.52/xiaoshiguang-v3.1.52-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.53/xiaoshiguang-v3.1.53-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.53/xiaoshiguang-v3.1.53-release.apk"
   ],
-  "sha256": "996234c2aaafb3dd91eb80b595056d3cf6e8a5b8f929d091064e79756f313461",
-  "changelog": "优化 AI 权限页返回、记忆/Skill/MCP 分段管理与知识笔记操作；新增可开关的小红书搜索和笔记读取工具。"
+  "sha256": "90451b8efe189d3a07a07e53dbd2ab34d52b434f4bbc942c1484eb2a6963850a",
+  "changelog": "新增小红书视频笔记阅读与在线播放，支持封面、文案及可用字幕存入知识库；兼容旧笔记和备份，优化 AI 笔记读取。"
 }
