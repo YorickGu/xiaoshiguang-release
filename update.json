@@ -1,11 +1,11 @@
 {
-  "versionCode": 167,
-  "versionName": "3.1.51",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.51/xiaoshiguang-v3.1.51-release.apk",
+  "versionCode": 168,
+  "versionName": "3.1.52",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.52/xiaoshiguang-v3.1.52-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.51/xiaoshiguang-v3.1.51-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.51/xiaoshiguang-v3.1.51-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.52/xiaoshiguang-v3.1.52-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.52/xiaoshiguang-v3.1.52-release.apk"
   ],
-  "sha256": "d57dc14ddc8e335def758712188fe268f74169c569b83f137e8bea1d7bf204a6",
-  "changelog": "优化 AI 设置入口与记忆、Skill 管理；改进 MCP 服务发现、接入引导和目录配置导入，增加百炼服务适配。"
+  "sha256": "996234c2aaafb3dd91eb80b595056d3cf6e8a5b8f929d091064e79756f313461",
+  "changelog": "优化 AI 权限页返回、记忆/Skill/MCP 分段管理与知识笔记操作；新增可开关的小红书搜索和笔记读取工具。"
 }
