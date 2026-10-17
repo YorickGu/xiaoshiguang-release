@@ -1,11 +1,11 @@
 {
-  "versionCode": 169,
-  "versionName": "3.1.53",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.53/xiaoshiguang-v3.1.53-release.apk",
+  "versionCode": 170,
+  "versionName": "3.1.54",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.54/xiaoshiguang-v3.1.54-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.53/xiaoshiguang-v3.1.53-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.53/xiaoshiguang-v3.1.53-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.54/xiaoshiguang-v3.1.54-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.54/xiaoshiguang-v3.1.54-release.apk"
   ],
-  "sha256": "90451b8efe189d3a07a07e53dbd2ab34d52b434f4bbc942c1484eb2a6963850a",
-  "changelog": "新增小红书视频笔记阅读与在线播放，支持封面、文案及可用字幕存入知识库；兼容旧笔记和备份，优化 AI 笔记读取。"
+  "sha256": "b837b0da960db2370f17b28eb83b9f1738293833704cd0a05c4012d52ab55a6a",
+  "changelog": "联网搜索改用 DeepSeek 搜索接口，与 AI 共用 API Key；统一对话、Agent、报告和图书识别的搜索设置，完善错误提示。"
 }
