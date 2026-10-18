@@ -1,11 +1,11 @@
 {
-  "versionCode": 174,
-  "versionName": "3.1.58",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.58/xiaoshiguang-v3.1.58-release.apk",
+  "versionCode": 175,
+  "versionName": "3.1.59",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.59/xiaoshiguang-v3.1.59-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.58/xiaoshiguang-v3.1.58-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.58/xiaoshiguang-v3.1.58-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.59/xiaoshiguang-v3.1.59-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.59/xiaoshiguang-v3.1.59-release.apk"
   ],
-  "sha256": "5e3a3dc3ec24ffdc9cf96ea28c3a9aa3cb2e620042e8630c88f6393074fa4f25",
-  "changelog": "修复能力→操作授权勾选后退出或重启丢失：开关、工具勾选与取消立即保存，未发送消息的新对话也支持恢复；完善对话授权保存与恢复诊断。"
+  "sha256": "45a15d0d7874d1650e4ec92352c619f9e4ac9a401e4560c5c900c83e684db1f0",
+  "changelog": "回答内高德地图改为原生外壳并保留干净底图；手机定位新增 WGS84→GCJ-02 换算，高德/腾讯直接使用 gcj02.amapLocation，修复「我附近」偏移数百米。"
 }
