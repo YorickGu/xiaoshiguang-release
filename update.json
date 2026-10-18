@@ -1,11 +1,11 @@
 {
-  "versionCode": 171,
-  "versionName": "3.1.55",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.55/xiaoshiguang-v3.1.55-release.apk",
+  "versionCode": 172,
+  "versionName": "3.1.56",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.56/xiaoshiguang-v3.1.56-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.55/xiaoshiguang-v3.1.55-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.55/xiaoshiguang-v3.1.55-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.56/xiaoshiguang-v3.1.56-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.56/xiaoshiguang-v3.1.56-release.apk"
   ],
-  "sha256": "54b1682fc9a6c5a6028653d61319b8de6c0a5039e8c5ec31afbc106d2d67bffd",
-  "changelog": "统一 Agent 执行与联网策略，新增本次对话能力设置、服务与 MCP 选择、Skill 方法及按能力授权，完善参数校验和执行证据。"
+  "sha256": "2d79fb2085af5d60de08dd343d6c32f97ad3c9a28dee67cb74a15a25b19fd19b",
+  "changelog": "新增 Agent 原生地图卡片，优化多轮对话跟随与内容展示，完善 MCP 服务授权的持久化、重启恢复和撤销。"
 }
