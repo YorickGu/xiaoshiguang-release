@@ -1,11 +1,11 @@
 {
-  "versionCode": 173,
-  "versionName": "3.1.57",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.57/xiaoshiguang-v3.1.57-release.apk",
+  "versionCode": 174,
+  "versionName": "3.1.58",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.58/xiaoshiguang-v3.1.58-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.57/xiaoshiguang-v3.1.57-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.57/xiaoshiguang-v3.1.57-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.58/xiaoshiguang-v3.1.58-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.58/xiaoshiguang-v3.1.58-release.apk"
   ],
-  "sha256": "108939933b16f6d28d82e5846b9f12dd650eb927d784c80e61fbe76935188aa0",
-  "changelog": "新增更新包后台下载、通知进度、暂停续传及完成后手动安装；修复已授权 MCP 位置参数仍反复确认，增加授权判定与服务调用诊断日志。"
+  "sha256": "5e3a3dc3ec24ffdc9cf96ea28c3a9aa3cb2e620042e8630c88f6393074fa4f25",
+  "changelog": "修复能力→操作授权勾选后退出或重启丢失：开关、工具勾选与取消立即保存，未发送消息的新对话也支持恢复；完善对话授权保存与恢复诊断。"
 }
