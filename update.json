@@ -1,11 +1,11 @@
 {
-  "versionCode": 175,
-  "versionName": "3.1.59",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.59/xiaoshiguang-v3.1.59-release.apk",
+  "versionCode": 176,
+  "versionName": "3.1.60",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.60/xiaoshiguang-v3.1.60-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.59/xiaoshiguang-v3.1.59-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.59/xiaoshiguang-v3.1.59-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.60/xiaoshiguang-v3.1.60-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.60/xiaoshiguang-v3.1.60-release.apk"
   ],
-  "sha256": "45a15d0d7874d1650e4ec92352c619f9e4ac9a401e4560c5c900c83e684db1f0",
-  "changelog": "回答内高德地图改为原生外壳并保留干净底图；手机定位新增 WGS84→GCJ-02 换算，高德/腾讯直接使用 gcj02.amapLocation，修复「我附近」偏移数百米。"
+  "sha256": "e54bd40d65d740df0595975381d401475853ad1270f0ded43f8a84bc8954809f",
+  "changelog": "地图采用浮动信息卡，修复地图区域拦截上下滑动；音频列表重新设计，自动按内容、专辑和系列归类，支持章节顺序播放、分类筛选及专辑搜索，保留原文件与收听进度。"
 }
