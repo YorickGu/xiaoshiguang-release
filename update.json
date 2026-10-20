@@ -1,11 +1,11 @@
 {
-  "versionCode": 178,
-  "versionName": "3.1.62",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.62/xiaoshiguang-v3.1.62-release.apk",
+  "versionCode": 179,
+  "versionName": "3.1.63",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.63/xiaoshiguang-v3.1.63-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.62/xiaoshiguang-v3.1.62-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.62/xiaoshiguang-v3.1.62-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.63/xiaoshiguang-v3.1.63-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.63/xiaoshiguang-v3.1.63-release.apk"
   ],
-  "sha256": "42a2b92228bbbbaf7cd909527f676c464230aafcc2bf2a32f4fe761072aedde0",
-  "changelog": "能力设置简化为资料与服务、回答方法、操作确认，统一即时保存并保留逐项撤销。音频文件夹导入优先打开 Music 或上次授权目录，支持选择帮助、扫描预览、重复检查和子文件夹选择，确认后才导入。地图底部路线浮层缩小，减少地图遮挡。"
+  "sha256": "afcd9295c5d15a72683347613c944d44af316d6c813cdff9a3623d37e38edbda",
+  "changelog": "修复地图路线信息卡遮挡缩放按钮：地点和路线信息移到地图下方，保留地图高度，兼容展开、窄屏和大字体。"
 }
