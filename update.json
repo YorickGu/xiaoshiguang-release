@@ -1,11 +1,11 @@
 {
-  "versionCode": 176,
-  "versionName": "3.1.60",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.60/xiaoshiguang-v3.1.60-release.apk",
+  "versionCode": 177,
+  "versionName": "3.1.61",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.61/xiaoshiguang-v3.1.61-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.60/xiaoshiguang-v3.1.60-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.60/xiaoshiguang-v3.1.60-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.61/xiaoshiguang-v3.1.61-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.61/xiaoshiguang-v3.1.61-release.apk"
   ],
-  "sha256": "e54bd40d65d740df0595975381d401475853ad1270f0ded43f8a84bc8954809f",
-  "changelog": "地图采用浮动信息卡，修复地图区域拦截上下滑动；音频列表重新设计，自动按内容、专辑和系列归类，支持章节顺序播放、分类筛选及专辑搜索，保留原文件与收听进度。"
+  "sha256": "eae0b7b705cf29d2c9fda0f2ddc45e1f9489a39d0d048d387abd44698372f22e",
+  "changelog": "音频改为文件夹歌单：递归导入时按所在目录归类，点击歌单进入歌曲列表；支持歌单与歌曲搜索、播放全部、歌单内顺序播放和队列恢复。旧音频及进度保留，重新导入原文件夹即可归入歌单。"
 }
