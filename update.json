@@ -1,11 +1,11 @@
 {
-  "versionCode": 177,
-  "versionName": "3.1.61",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.61/xiaoshiguang-v3.1.61-release.apk",
+  "versionCode": 178,
+  "versionName": "3.1.62",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.62/xiaoshiguang-v3.1.62-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.61/xiaoshiguang-v3.1.61-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.61/xiaoshiguang-v3.1.61-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.62/xiaoshiguang-v3.1.62-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.62/xiaoshiguang-v3.1.62-release.apk"
   ],
-  "sha256": "eae0b7b705cf29d2c9fda0f2ddc45e1f9489a39d0d048d387abd44698372f22e",
-  "changelog": "音频改为文件夹歌单：递归导入时按所在目录归类，点击歌单进入歌曲列表；支持歌单与歌曲搜索、播放全部、歌单内顺序播放和队列恢复。旧音频及进度保留，重新导入原文件夹即可归入歌单。"
+  "sha256": "42a2b92228bbbbaf7cd909527f676c464230aafcc2bf2a32f4fe761072aedde0",
+  "changelog": "能力设置简化为资料与服务、回答方法、操作确认，统一即时保存并保留逐项撤销。音频文件夹导入优先打开 Music 或上次授权目录，支持选择帮助、扫描预览、重复检查和子文件夹选择，确认后才导入。地图底部路线浮层缩小，减少地图遮挡。"
 }
