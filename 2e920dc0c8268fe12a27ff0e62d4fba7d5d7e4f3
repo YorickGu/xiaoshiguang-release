@@ -1,0 +1,19 @@
+update.json
+  s_0ec0d45eb046ea::t_c108c08c108591 2-4,6-8,10-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.44-trip",
+  "base_commit_sha": "2e920dc0c8268fe12a27ff0e62d4fba7d5d7e4f3",
+  "prompts": {},
+  "sessions": {
+    "s_0ec0d45eb046ea": {
+      "agent_id": {
+        "tool": "zcode",
+        "id": "sess_72858ccc-f62a-4732-85a0-58220ca54292",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "yorick <yaojianggu@trip.com>"
+    }
+  }
+}
