@@ -1,11 +1,11 @@
 {
-  "versionCode": 179,
-  "versionName": "3.1.63",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.63/xiaoshiguang-v3.1.63-release.apk",
+  "versionCode": 180,
+  "versionName": "3.1.64",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.64/xiaoshiguang-v3.1.64-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.63/xiaoshiguang-v3.1.63-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.63/xiaoshiguang-v3.1.63-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.64/xiaoshiguang-v3.1.64-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.64/xiaoshiguang-v3.1.64-release.apk"
   ],
-  "sha256": "afcd9295c5d15a72683347613c944d44af316d6c813cdff9a3623d37e38edbda",
-  "changelog": "修复地图路线信息卡遮挡缩放按钮：地点和路线信息移到地图下方，保留地图高度，兼容展开、窄屏和大字体。"
+  "sha256": "c4cd93200548cacaf666139a8b38fef58dcd5bd57ce4b2ece11cb29f659859cd",
+  "changelog": "云端图文知识修复：家庭共享与应用内云库保留完整图文正文、原文与整理稿，正文配图点按全屏翻页；长图文可完整备份同步，云库列表按内容分页加载。"
 }
