@@ -1,11 +1,11 @@
 {
-  "versionCode": 183,
-  "versionName": "3.1.67",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.67/xiaoshiguang-v3.1.67-release.apk",
+  "versionCode": 184,
+  "versionName": "3.1.68",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.68/xiaoshiguang-v3.1.68-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.67/xiaoshiguang-v3.1.67-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.67/xiaoshiguang-v3.1.67-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.68/xiaoshiguang-v3.1.68-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.68/xiaoshiguang-v3.1.68-release.apk"
   ],
-  "sha256": "7b25ba8f9fd3fc01a399523c2cab3c3cfc377d460a040dc5a7a2263ba8463312",
-  "changelog": "书架简洁白卡：暖白纸感与白色书籍卡，封面完整显示，默认三列并保留布局设置；拍照识别只补书目，实拍封面不被网络封面替换。"
+  "sha256": "3867438604697670e71edc1b4e33a0a22d8ca2b2b578fb28832d5657c884ac3d",
+  "changelog": "封面候选由用户点选，豆瓣优先"
 }
