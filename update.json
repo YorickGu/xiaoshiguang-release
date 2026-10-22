@@ -1,11 +1,11 @@
 {
-  "versionCode": 184,
-  "versionName": "3.1.68",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.68/xiaoshiguang-v3.1.68-release.apk",
+  "versionCode": 185,
+  "versionName": "3.1.69",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.69/xiaoshiguang-v3.1.69-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.68/xiaoshiguang-v3.1.68-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.68/xiaoshiguang-v3.1.68-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.69/xiaoshiguang-v3.1.69-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.69/xiaoshiguang-v3.1.69-release.apk"
   ],
-  "sha256": "3867438604697670e71edc1b4e33a0a22d8ca2b2b578fb28832d5657c884ac3d",
-  "changelog": "封面候选由用户点选，豆瓣优先"
+  "sha256": "747660cd424d00ea8f37243b068bb14df3ba586b6dab7eda2d6d1a4271d8e610",
+  "changelog": "选封面后自动填入该版本书目"
 }
