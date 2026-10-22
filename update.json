@@ -1,11 +1,11 @@
 {
-  "versionCode": 185,
-  "versionName": "3.1.69",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.69/xiaoshiguang-v3.1.69-release.apk",
+  "versionCode": 186,
+  "versionName": "3.1.70",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.70/xiaoshiguang-v3.1.70-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.69/xiaoshiguang-v3.1.69-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.69/xiaoshiguang-v3.1.69-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.70/xiaoshiguang-v3.1.70-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.70/xiaoshiguang-v3.1.70-release.apk"
   ],
-  "sha256": "747660cd424d00ea8f37243b068bb14df3ba586b6dab7eda2d6d1a4271d8e610",
-  "changelog": "选封面后自动填入该版本书目"
+  "sha256": "5ba3dae18a71d71519ee44f2555536c2ff70b40dd07e96b9edda2ce69f42e44b",
+  "changelog": "书籍详情页重做：近 7 天阅读图表、按日记录弹层与单条编辑，分类书单借阅统一保存"
 }
