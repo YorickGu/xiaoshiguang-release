@@ -1,11 +1,11 @@
 {
-  "versionCode": 182,
-  "versionName": "3.1.66",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.66/xiaoshiguang-v3.1.66-release.apk",
+  "versionCode": 183,
+  "versionName": "3.1.67",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.67/xiaoshiguang-v3.1.67-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.66/xiaoshiguang-v3.1.66-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.66/xiaoshiguang-v3.1.66-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.67/xiaoshiguang-v3.1.67-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.67/xiaoshiguang-v3.1.67-release.apk"
   ],
-  "sha256": "5f517c009d8bc199bcb3c584c8019bcba1de664985d2b35df80f148d6a63ee1b",
-  "changelog": "添加书籍补全接入当前界面：书名下方新增「联网查找书目与封面」，识别封面后自动补全；新增系列、ISBN、适龄段与简介输入项，只填空缺、不覆盖已填内容，网络封面点确认后才替换。"
+  "sha256": "7b25ba8f9fd3fc01a399523c2cab3c3cfc377d460a040dc5a7a2263ba8463312",
+  "changelog": "书架简洁白卡：暖白纸感与白色书籍卡，封面完整显示，默认三列并保留布局设置；拍照识别只补书目，实拍封面不被网络封面替换。"
 }
