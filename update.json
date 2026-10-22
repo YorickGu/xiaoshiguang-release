@@ -1,11 +1,11 @@
 {
-  "versionCode": 181,
-  "versionName": "3.1.65",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.65/xiaoshiguang-v3.1.65-release.apk",
+  "versionCode": 182,
+  "versionName": "3.1.66",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.66/xiaoshiguang-v3.1.66-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.65/xiaoshiguang-v3.1.65-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.65/xiaoshiguang-v3.1.65-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.66/xiaoshiguang-v3.1.66-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.66/xiaoshiguang-v3.1.66-release.apk"
   ],
-  "sha256": "3c53020fb5e0d5822f70d7ba9f2cbd20e92921767732f59ef54548e31fd5919b",
-  "changelog": "免费联网搜索与书籍补全：AI 联网问答可免 Key 使用 Bing、DuckDuckGo 等免费引擎，可设首选引擎并在失败时自动切换；添加书籍时联网补全作者、出版社、ISBN 与简介并查找封面，只填空缺、不覆盖已填内容。"
+  "sha256": "5f517c009d8bc199bcb3c584c8019bcba1de664985d2b35df80f148d6a63ee1b",
+  "changelog": "添加书籍补全接入当前界面：书名下方新增「联网查找书目与封面」，识别封面后自动补全；新增系列、ISBN、适龄段与简介输入项，只填空缺、不覆盖已填内容，网络封面点确认后才替换。"
 }
