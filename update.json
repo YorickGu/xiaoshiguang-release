@@ -1,11 +1,11 @@
 {
-  "versionCode": 180,
-  "versionName": "3.1.64",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.64/xiaoshiguang-v3.1.64-release.apk",
+  "versionCode": 181,
+  "versionName": "3.1.65",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.65/xiaoshiguang-v3.1.65-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.64/xiaoshiguang-v3.1.64-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.64/xiaoshiguang-v3.1.64-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.65/xiaoshiguang-v3.1.65-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.65/xiaoshiguang-v3.1.65-release.apk"
   ],
-  "sha256": "c4cd93200548cacaf666139a8b38fef58dcd5bd57ce4b2ece11cb29f659859cd",
-  "changelog": "云端图文知识修复：家庭共享与应用内云库保留完整图文正文、原文与整理稿，正文配图点按全屏翻页；长图文可完整备份同步，云库列表按内容分页加载。"
+  "sha256": "3c53020fb5e0d5822f70d7ba9f2cbd20e92921767732f59ef54548e31fd5919b",
+  "changelog": "免费联网搜索与书籍补全：AI 联网问答可免 Key 使用 Bing、DuckDuckGo 等免费引擎，可设首选引擎并在失败时自动切换；添加书籍时联网补全作者、出版社、ISBN 与简介并查找封面，只填空缺、不覆盖已填内容。"
 }
