@@ -1,11 +1,11 @@
 {
-  "versionCode": 186,
-  "versionName": "3.1.70",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.70/xiaoshiguang-v3.1.70-release.apk",
+  "versionCode": 187,
+  "versionName": "3.1.71",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.71/xiaoshiguang-v3.1.71-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.70/xiaoshiguang-v3.1.70-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.70/xiaoshiguang-v3.1.70-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.71/xiaoshiguang-v3.1.71-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.71/xiaoshiguang-v3.1.71-release.apk"
   ],
-  "sha256": "5ba3dae18a71d71519ee44f2555536c2ff70b40dd07e96b9edda2ce69f42e44b",
-  "changelog": "书籍详情页重做：近 7 天阅读图表、按日记录弹层与单条编辑，分类书单借阅统一保存"
+  "sha256": "f9f8e0b6a77ed4e500f494063b41010a5faed15df91f49bf0484c36b1f00017d",
+  "changelog": "界面统一重做：今日/书架/时光/知识/设置/音频一套设计，书籍紧凑列表、连续三月日历；图片单击放大"
 }
