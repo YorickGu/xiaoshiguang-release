@@ -1,11 +1,11 @@
 {
-  "versionCode": 188,
-  "versionName": "3.1.72",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.72/xiaoshiguang-v3.1.72-release.apk",
+  "versionCode": 189,
+  "versionName": "3.1.73",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.73/xiaoshiguang-v3.1.73-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.72/xiaoshiguang-v3.1.72-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.72/xiaoshiguang-v3.1.72-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.73/xiaoshiguang-v3.1.73-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.73/xiaoshiguang-v3.1.73-release.apk"
   ],
-  "sha256": "0c5d588f3a19cb37570bd36e1f0da0a3c61ffcf0c4a99d4d7c92dec55c6ff6cc",
-  "changelog": "动效收尾：页头随滚动收折、页面切换淡入淡出并尊重减弱动效，对话摘要只取正文，服务弹层按钮不再被系统栏裁切"
+  "sha256": "8ae4d1ad40692d2afaa01a426e00d42de46a32cde404c0a5a2c40ea4a3fe9723",
+  "changelog": "手势与搜索：主内容区跟手滑动切换主 Tab、页内改为方向平移过渡，封面按来源并行加载并显示进度，修复删书与同步删除状态，精简界面文案，透明图片保留原底色"
 }
