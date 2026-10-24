@@ -1,11 +1,11 @@
 {
-  "versionCode": 187,
-  "versionName": "3.1.71",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.71/xiaoshiguang-v3.1.71-release.apk",
+  "versionCode": 188,
+  "versionName": "3.1.72",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.72/xiaoshiguang-v3.1.72-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.71/xiaoshiguang-v3.1.71-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.71/xiaoshiguang-v3.1.71-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.72/xiaoshiguang-v3.1.72-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.72/xiaoshiguang-v3.1.72-release.apk"
   ],
-  "sha256": "f9f8e0b6a77ed4e500f494063b41010a5faed15df91f49bf0484c36b1f00017d",
-  "changelog": "界面统一重做：今日/书架/时光/知识/设置/音频一套设计，书籍紧凑列表、连续三月日历；图片单击放大"
+  "sha256": "0c5d588f3a19cb37570bd36e1f0da0a3c61ffcf0c4a99d4d7c92dec55c6ff6cc",
+  "changelog": "动效收尾：页头随滚动收折、页面切换淡入淡出并尊重减弱动效，对话摘要只取正文，服务弹层按钮不再被系统栏裁切"
 }
