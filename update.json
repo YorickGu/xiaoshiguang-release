@@ -1,11 +1,11 @@
 {
-  "versionCode": 189,
-  "versionName": "3.1.73",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.73/xiaoshiguang-v3.1.73-release.apk",
+  "versionCode": 190,
+  "versionName": "3.1.74",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.74/xiaoshiguang-v3.1.74-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.73/xiaoshiguang-v3.1.73-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.73/xiaoshiguang-v3.1.73-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.74/xiaoshiguang-v3.1.74-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.74/xiaoshiguang-v3.1.74-release.apk"
   ],
-  "sha256": "8ae4d1ad40692d2afaa01a426e00d42de46a32cde404c0a5a2c40ea4a3fe9723",
-  "changelog": "手势与搜索：主内容区跟手滑动切换主 Tab、页内改为方向平移过渡，封面按来源并行加载并显示进度，修复删书与同步删除状态，精简界面文案，透明图片保留原底色"
+  "sha256": "0e87a66d805da02d142747f39bdfd74b159a8196faefdf2ca1a2e319b225617d",
+  "changelog": "交互修整：统一阅读时长与日期选择样式，播放器支持左右滑动切歌，AI 追问优先选择题并共用原生选书面板，支持自定义答案"
 }
