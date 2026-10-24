@@ -1,11 +1,11 @@
 {
-  "versionCode": 192,
-  "versionName": "3.1.76",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.76/xiaoshiguang-v3.1.76-release.apk",
+  "versionCode": 193,
+  "versionName": "3.1.77",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.77/xiaoshiguang-v3.1.77-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.76/xiaoshiguang-v3.1.76-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.76/xiaoshiguang-v3.1.76-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.77/xiaoshiguang-v3.1.77-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.77/xiaoshiguang-v3.1.77-release.apk"
   ],
-  "sha256": "8106f8953ae86d584770b7dd55033956bd692794bb3af7c0ba61829d1597a978",
-  "changelog": "AI 原生应用能力：助手可查询并操作真实书架、阅读、成长、知识、音频与云库数据，写操作经独立授权复核，文件与密钥由系统安全输入收集"
+  "sha256": "61ad89ef25f8318c0abfbc4b5696853ad719f5f8535aad4b3d336daca05daa8a",
+  "changelog": "AI 执行规划与创建补参：执行前用 prepare_app_action 检查缺参与可用辅助能力，开放对象参数不再报错，书籍/知识创建按真实分类与明确字段补齐，只读准备不再误报已保存"
 }
