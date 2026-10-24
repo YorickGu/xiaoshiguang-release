@@ -1,11 +1,11 @@
 {
-  "versionCode": 190,
-  "versionName": "3.1.74",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.74/xiaoshiguang-v3.1.74-release.apk",
+  "versionCode": 191,
+  "versionName": "3.1.75",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.75/xiaoshiguang-v3.1.75-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.74/xiaoshiguang-v3.1.74-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.74/xiaoshiguang-v3.1.74-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.75/xiaoshiguang-v3.1.75-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.75/xiaoshiguang-v3.1.75-release.apk"
   ],
-  "sha256": "0e87a66d805da02d142747f39bdfd74b159a8196faefdf2ca1a2e319b225617d",
-  "changelog": "交互修整：统一阅读时长与日期选择样式，播放器支持左右滑动切歌，AI 追问优先选择题并共用原生选书面板，支持自定义答案"
+  "sha256": "86b3b2d36c89fd36c3c2bfe1b18ea80badef3a9c702dc4899133c2c9ba897e13",
+  "changelog": "返回与预览修整：有声书首页系统返回回到书架、歌单逐层返回且不中断播放；书籍封面预览改用透明浮层，保留详情页背景"
 }
