@@ -1,11 +1,11 @@
 {
-  "versionCode": 191,
-  "versionName": "3.1.75",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.75/xiaoshiguang-v3.1.75-release.apk",
+  "versionCode": 192,
+  "versionName": "3.1.76",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.76/xiaoshiguang-v3.1.76-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.75/xiaoshiguang-v3.1.75-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.75/xiaoshiguang-v3.1.75-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.76/xiaoshiguang-v3.1.76-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.76/xiaoshiguang-v3.1.76-release.apk"
   ],
-  "sha256": "86b3b2d36c89fd36c3c2bfe1b18ea80badef3a9c702dc4899133c2c9ba897e13",
-  "changelog": "返回与预览修整：有声书首页系统返回回到书架、歌单逐层返回且不中断播放；书籍封面预览改用透明浮层，保留详情页背景"
+  "sha256": "8106f8953ae86d584770b7dd55033956bd692794bb3af7c0ba61829d1597a978",
+  "changelog": "AI 原生应用能力：助手可查询并操作真实书架、阅读、成长、知识、音频与云库数据，写操作经独立授权复核，文件与密钥由系统安全输入收集"
 }
