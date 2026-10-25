@@ -1,11 +1,11 @@
 {
-  "versionCode": 195,
-  "versionName": "3.1.79",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.79/xiaoshiguang-v3.1.79-release.apk",
+  "versionCode": 196,
+  "versionName": "3.1.80",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.80/xiaoshiguang-v3.1.80-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.79/xiaoshiguang-v3.1.79-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.79/xiaoshiguang-v3.1.79-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.80/xiaoshiguang-v3.1.80-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.80/xiaoshiguang-v3.1.80-release.apk"
   ],
-  "sha256": "366784478d51e3ba607197986d17277fc4dd378360892b668496c664d8fc7afa",
-  "changelog": "AI 工具纠错与可执行替代方案：本轮只把真实提供的工具定义交给模型，含未提供工具的整批计划被拒绝；参数错误与可确定安全的只读失败自动纠正最多两次，仍失败时给出基于真实能力的替代方案，纠正预算写入执行账本不随重启重置；App 原生列表 limit 明确为 1–50、默认 20，新增不含私密参数的诊断事件"
+  "sha256": "5d4b97e315864fdde792c4ea3d4fe699fdce7c2fb2399181ab3778300a275ec0",
+  "changelog": "执行预算分段与断点继续：AI 单次执行改为每段最多完成 32 步、规划 12 轮，整批调用先校验保存、到步骤边界暂停并保留剩余操作，点「继续」从断点接着执行且不重放已完成步骤；只有显式续接才开启新预算，自动授权、自动复用答案与进程重建都不续领，旧任务按 0 开始计数，升级后可直接继续。"
 }
