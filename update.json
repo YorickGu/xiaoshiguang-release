@@ -1,11 +1,11 @@
 {
-  "versionCode": 200,
-  "versionName": "3.1.84",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.84/xiaoshiguang-v3.1.84-release.apk",
+  "versionCode": 201,
+  "versionName": "3.1.85",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.85/xiaoshiguang-v3.1.85-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.84/xiaoshiguang-v3.1.84-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.84/xiaoshiguang-v3.1.84-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.85/xiaoshiguang-v3.1.85-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.85/xiaoshiguang-v3.1.85-release.apk"
   ],
-  "sha256": "2922854041643f4dcafd45a13ab431e090af6b43176ebf51652142cb4e42c4fc",
-  "changelog": "AI 任务详情页与按复杂度规划：简单问答与单次操作直接执行，长步骤、批量或多阶段任务才先提交计划；缺参、关键决定与额外授权进入独立任务详情页，集中展示目标、问题原因、选项影响与点击后的结果，未选择时不能继续；待授权的阅读记录、日程和提醒都可调整参数，调整不会直接授权；完成数量按真实写入的操作账本计算，部分成功保留已完成项、未知结果先核查。修复原生补参卡遗漏数字时长、选书时日期与时长丢失，以及短任务快速开始后前台服务启动竞态导致的超时崩溃。"
+  "sha256": "f507a32ec0fe88177e422dab28ee84f1613341afb9e0e8a2ea2c42a2d9c6de39",
+  "changelog": "AI 助手改为按任务规模自适应执行：每段执行预算由 32 步 / 12 轮提高到 100 步 / 100 轮，到达边界仍保存断点并由用户显式「继续」续接；规划、后续回答、上下文摘要、授权评估与旧卡片意图判断遇到瞬时网络错误、HTTP 408／429／500／502／503／504 或未完整的模型响应时，最多自动重试两次（间隔 0.5／1.5 秒），401／403、参数错误与取消不盲目重试，重试只重新请求模型，已完成操作、原始账本与成功写入都不重放，写入结果未知时仍走核查流程，等待授权期间取消后也不再派发操作；工具自动纠错改为连续失败计数，真实写入成功后清零，发现工具与检查草稿不清零，连续两次纠错仍失败才进入原有替代方案流程。新增通用并发执行器 `AgentConcurrentWork`（1～4 个工作协程）与 `AgentParallelReads`：只把已授权、参数齐全、已知无写入效果的连续只读检索调用合并为一批，最多 4 项并受剩余操作预算约束；发现工具、交互、补参、待确认、写入与效果未知的调用都是调度边界，MCP 效果未知的工具不并发，打开电子书与小红书登录明确标记为交互；检查点之后、实际派发之前再次检查策略与授权，撤权可阻止全部发送；一个查询失败时保留成功同伴，取消依赖它的未执行调用并交回模型纠正；暂停／停止后未完成读取恢复为待执行，已完成结果保留，每个调用 ID 只写一次工具输出；多会话共用最多 4 个读取槽位，已自带内部并发的批量工具单独占槽，避免外层 4 路放大成 16 路，加权预留不会因两批各持部分槽位而死锁。提示词要求优先使用真实的批量查询、聚合统计与事务保存并按接口限制分批，没有批量接口时才并发独立查询，不编造接口也不扩大授权。批量导书改为 `lookup_books_info` 每批最多 10 本、最多 4 本并发，逐本保留成功与失败结果，每来源最多交付 1 张封面并最多尝试 4 个候选；`add_books` 一次事务最多保存 40 本，逐本返回真实 ID、创建／跳过状态与 `coverSaved`，同 ISBN 或书名／作者／ISBN 全同的已有书跳过，失败回滚并清理本批已复制的封面，不再需要逐本 `get_book` 核对。补记阅读沿用同一书架选择器并支持多选、搜索时保留选择、取消不改动表单，分别为每本填写时长并显示本数 × 时长与合计，沿用合计 300 分钟的限制。今日页把 7 天趋势改为当天口径：环形图按真实时长列出前 3 本、其余归为「其他」并给出分钟与占比，书籍卡增加占今日时长的色条；新增当天阅读时段轴，以记录保存时刻作为结束、按阅读时长反推开始，计时用主色、补记用绿色并附来源文字，历史日期按保存时分映射到记录所属日期，跨午夜裁剪到当天，时间范围至少 4 小时、展示最近 4 段并保留查看当天全部记录的入口，点按时段或色块打开对应记录与书籍；320dp 与根字体 1.6 倍下改为上下布局，支持深色。"
 }
