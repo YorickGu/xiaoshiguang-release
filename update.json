@@ -1,11 +1,11 @@
 {
-  "versionCode": 196,
-  "versionName": "3.1.80",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.80/xiaoshiguang-v3.1.80-release.apk",
+  "versionCode": 197,
+  "versionName": "3.1.81",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.81/xiaoshiguang-v3.1.81-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.80/xiaoshiguang-v3.1.80-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.80/xiaoshiguang-v3.1.80-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.81/xiaoshiguang-v3.1.81-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.81/xiaoshiguang-v3.1.81-release.apk"
   ],
-  "sha256": "5d4b97e315864fdde792c4ea3d4fe699fdce7c2fb2399181ab3778300a275ec0",
-  "changelog": "执行预算分段与断点继续：AI 单次执行改为每段最多完成 32 步、规划 12 轮，整批调用先校验保存、到步骤边界暂停并保留剩余操作，点「继续」从断点接着执行且不重放已完成步骤；只有显式续接才开启新预算，自动授权、自动复用答案与进程重建都不续领，旧任务按 0 开始计数，升级后可直接继续。"
+  "sha256": "43183046df72da243a9b9d3a16170e643558e18999f9994fa3de2acfc740aef8",
+  "changelog": "AI 上下文自动压缩：长任务在工具历史累积到约 7.2 万字符时，先用一次不携带工具的独立模型请求把较早记录整理成不超过 6000 字符的阶段摘要，压到 4.8 万字符内再继续规划；原始请求、最近完整调用结果与已成功写入全部保留，摘要只作为模型上下文检查点持久化，不覆盖审计记录、不授予权限、不续领执行预算，恢复后复用摘要增量整理，压缩中可暂停或停止。"
 }
