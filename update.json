@@ -1,11 +1,11 @@
 {
-  "versionCode": 199,
-  "versionName": "3.1.83",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.83/xiaoshiguang-v3.1.83-release.apk",
+  "versionCode": 200,
+  "versionName": "3.1.84",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.84/xiaoshiguang-v3.1.84-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.83/xiaoshiguang-v3.1.83-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.83/xiaoshiguang-v3.1.83-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.84/xiaoshiguang-v3.1.84-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.84/xiaoshiguang-v3.1.84-release.apk"
   ],
-  "sha256": "6a63425952d5740a67743c02c180bef77c0333db88d902019873fbf27391cb67",
-  "changelog": "AI 操作授权新增「始终允许此类操作」：按具体能力的定义指纹保存，权限页可查看与撤销，工具 Schema、描述或服务身份变化后旧授权自动失效，撤销后旧对话的授权快照无法恢复。新任务先由独立模型阶段生成计划（步骤、真实能力、可能困难与需先确认的问题），规划阶段不执行任何业务工具、不创建执行授权；遇到关键问题时在执行前停下，补充后重新规划，执行中可暂停并调整。执行改用 dataSync 前台服务与限时唤醒锁，切换应用不再主动暂停；后台完成、等待输入、失败或暂停时发送不含私人任务内容的结果通知，点按回到对应对话，通知权限按需申请、拒绝后不反复弹窗。"
+  "sha256": "2922854041643f4dcafd45a13ab431e090af6b43176ebf51652142cb4e42c4fc",
+  "changelog": "AI 任务详情页与按复杂度规划：简单问答与单次操作直接执行，长步骤、批量或多阶段任务才先提交计划；缺参、关键决定与额外授权进入独立任务详情页，集中展示目标、问题原因、选项影响与点击后的结果，未选择时不能继续；待授权的阅读记录、日程和提醒都可调整参数，调整不会直接授权；完成数量按真实写入的操作账本计算，部分成功保留已完成项、未知结果先核查。修复原生补参卡遗漏数字时长、选书时日期与时长丢失，以及短任务快速开始后前台服务启动竞态导致的超时崩溃。"
 }
