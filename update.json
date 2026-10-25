@@ -1,11 +1,11 @@
 {
-  "versionCode": 197,
-  "versionName": "3.1.81",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.81/xiaoshiguang-v3.1.81-release.apk",
+  "versionCode": 198,
+  "versionName": "3.1.82",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.82/xiaoshiguang-v3.1.82-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.81/xiaoshiguang-v3.1.81-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.81/xiaoshiguang-v3.1.81-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.82/xiaoshiguang-v3.1.82-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.82/xiaoshiguang-v3.1.82-release.apk"
   ],
-  "sha256": "43183046df72da243a9b9d3a16170e643558e18999f9994fa3de2acfc740aef8",
-  "changelog": "AI 上下文自动压缩：长任务在工具历史累积到约 7.2 万字符时，先用一次不携带工具的独立模型请求把较早记录整理成不超过 6000 字符的阶段摘要，压到 4.8 万字符内再继续规划；原始请求、最近完整调用结果与已成功写入全部保留，摘要只作为模型上下文检查点持久化，不覆盖审计记录、不授予权限、不续领执行预算，恢复后复用摘要增量整理，压缩中可暂停或停止。"
+  "sha256": "30a36328156e2ff95f5fbe87a2d1c91538bd04f242bf6161940e630280c3e53f",
+  "changelog": "书籍页新增批量删除：可逐本勾选或全选当前筛选结果，正在计时的书籍不可选，整批在同一事务内校验后删除，失败不留半截。联网找封面改为按成功下载数量限制，坏图继续尝试后续候选，并分别记录候选数/下载数/下载失败数，来源检索失败与「检索成功但无结果」分开提示。AI 建书新增 coverAssetRef：逐本查询候选后随 add_book 保存为书籍自己的封面文件，最后用 get_book 核对，建书完成前不声称整项完成。"
 }
