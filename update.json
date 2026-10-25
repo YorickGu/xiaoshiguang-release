@@ -1,11 +1,11 @@
 {
-  "versionCode": 194,
-  "versionName": "3.1.78",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.78/xiaoshiguang-v3.1.78-release.apk",
+  "versionCode": 195,
+  "versionName": "3.1.79",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.79/xiaoshiguang-v3.1.79-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.78/xiaoshiguang-v3.1.78-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.78/xiaoshiguang-v3.1.78-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.79/xiaoshiguang-v3.1.79-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.79/xiaoshiguang-v3.1.79-release.apk"
   ],
-  "sha256": "efd22dbb57066053dd8b744373b0ba16a13174309c3fcabaee861c4b3ef59e60",
-  "changelog": "今日阅读与成长云同步：今天页汇总当天阅读与成长并用方形书封展示，设置拆出账号安全/个人云库/家庭共享，时光统计卡各自打开专属明细，新增 growth 云资源支持成长与最多九张照片上传下载，长回答离屏保留高度、多轮对话只显示本轮内容"
+  "sha256": "366784478d51e3ba607197986d17277fc4dd378360892b668496c664d8fc7afa",
+  "changelog": "AI 工具纠错与可执行替代方案：本轮只把真实提供的工具定义交给模型，含未提供工具的整批计划被拒绝；参数错误与可确定安全的只读失败自动纠正最多两次，仍失败时给出基于真实能力的替代方案，纠正预算写入执行账本不随重启重置；App 原生列表 limit 明确为 1–50、默认 20，新增不含私密参数的诊断事件"
 }
