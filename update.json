@@ -1,11 +1,11 @@
 {
-  "versionCode": 204,
-  "versionName": "3.1.88",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.88/xiaoshiguang-v3.1.88-release.apk",
+  "versionCode": 205,
+  "versionName": "3.1.89",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.89/xiaoshiguang-v3.1.89-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.88/xiaoshiguang-v3.1.88-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.88/xiaoshiguang-v3.1.88-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.89/xiaoshiguang-v3.1.89-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.89/xiaoshiguang-v3.1.89-release.apk"
   ],
-  "sha256": "52a03e5c61a703bafb63fdbbee9167d3dfdff4b7bb040d7dfc0ce2e34d836f15",
-  "changelog": "修复超大会话导致的历史对话与新建对话闪退：任务快照改为先读元信息再按 64 KiB 分块读取，超过 CursorWindow 单行上限也不再崩溃，旧任务大行无需迁移。任务详情把需要你决定的问题做成高亮问题块，选项分别标明影响；模型声明要你决定时必须给可选项、原因与提交后动作，自由填写必须带提示或示例，缺失信息不能靠后续业务调用绕过，重启续跑后仍保持这一门槛。执行过程显示思考、当前工具、搜索引擎与切换备用引擎、封面下载和本批计数，等待超过 20 秒提示仍在响应，不显示假进度；首页底部新增活动任务栏，可展开并直接打开执行中或待处理任务。批量查封面合并同批同书名作者的查询，每本取得一张匹配候选即取消慢来源，4 本并发实测由 11,975 ms 降到 782 ms。"
+  "sha256": "ac5c05652299c0a1ee37eb0c4bba3d2705be1835704f563b3d2fda8dcd2ae265",
+  "changelog": "上下文按需发送与可读调试日志：普通工具返回超过 4,000 字符时，模型视图只保留 800 字符预览、游标/数量/状态等短字段与 archive 引用，原始记录不改写，需要原文时用 read_task_history 每页 6,000 字符读取；显式读取工具的正文保留，图片只在本轮第一次主请求发原图，Excel/CSV 导入前只发工作表目录、表头与少量行预览，导入后改发收据。token 预算改为按真实请求体中英文分别估算并计入工具 schema，约 36k 触发压缩、目标 24k、输入上限 48k，只在工具调用与结果完整配对处提交检查点，并用供应商返回的 input_tokens 校准估算。同一会话新增持久化旧消息摘要与最近 8 条完整消息，可列出 messageId 再每页 6,000 字符读取原文，编辑消息、删除会话或直接改库都会让缓存失效。调试日志新增可读多行日志块，记录实际请求、响应、工具参数与结果（书名、分类、行号、业务 ID、分页与逐本状态），Key、密码、token、图片 data URI 继续脱敏，容量扩展为 8 MiB × 8 段。任务详情新增导书进度卡，显示阶段、已完成/总数、已保存与失败本数，不显示假百分比。"
 }
