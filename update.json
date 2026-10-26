@@ -1,11 +1,11 @@
 {
-  "versionCode": 203,
-  "versionName": "3.1.87",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.87/xiaoshiguang-v3.1.87-release.apk",
+  "versionCode": 204,
+  "versionName": "3.1.88",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.88/xiaoshiguang-v3.1.88-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.87/xiaoshiguang-v3.1.87-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.87/xiaoshiguang-v3.1.87-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.88/xiaoshiguang-v3.1.88-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.88/xiaoshiguang-v3.1.88-release.apk"
   ],
-  "sha256": "5462da2268cffb6f8361fe293765f88e3a8102217a617da90dc4d6694e7a1286",
-  "changelog": "书架批量删除改为完整的选择流程：书籍列表与封面书架都提供带删除图标的批量入口，进入后显示「选择书籍」和「完成」，顶部固定全选栏支持未选、部分选中、全部选中三态并显示可选数量；全选作用于当前搜索和状态筛选的全部结果，不只包含屏幕内已渲染的书，正在计时的书不参与全选；已选列表项使用淡蓝底色、细边框和圆形勾选，封面书架增加封面边框与右上角勾选标记；底部固定显示已选总数与删除按钮，窄屏或大字改为上下布局，未选时禁用删除；切换筛选保留之前的选择并提示其中有多少本属于其他结果，取消全选只取消当前结果，沿用原有删除确认、整批软删除、计时保护与阅读记录保留。AI 资料在 Agent 任务保存后才从输入区草稿移除，显示在对应的用户消息内，可打开固定的原始工作表和行号；后续消息带上同一会话的历史资料目录，可分页读取原资料，图片也能重新随模型请求发送，资料范围由宿主会话身份决定，不能通过伪造附件 ID 或草稿引用读取其他会话，同一文件多次选择不同工作表时保留各次引用版本。不完整、空白及无效 JSON 的模型返回按有界策略自动重试，重试时降低思考强度，最后一次改用非流式请求，业务工具只接收完整计划，成功写入保留在原账本中；上下文摘要连续失败且属于可恢复响应或网络错误时改用本地归档索引，允许 Agent 分页读取原执行记录后继续，索引明确标为不完整摘要，不虚构结果、不覆盖原始记录或授权。新增 preview_book_table 与 import_book_table：先读 Excel/CSV 的真实表头和原始行并直接生成本地草稿，单次最多 200 本，模型无需重写整份书籍参数、也无需逐本查书架，保留作者、出版社、ISBN、语种等表内字段，额外列保存在备注，分类不足时集中采用已确认的真实分类，按 ISBN 或相同书名/作者/ISBN 去重，同一事务保存书籍和操作收据。"
+  "sha256": "52a03e5c61a703bafb63fdbbee9167d3dfdff4b7bb040d7dfc0ce2e34d836f15",
+  "changelog": "修复超大会话导致的历史对话与新建对话闪退：任务快照改为先读元信息再按 64 KiB 分块读取，超过 CursorWindow 单行上限也不再崩溃，旧任务大行无需迁移。任务详情把需要你决定的问题做成高亮问题块，选项分别标明影响；模型声明要你决定时必须给可选项、原因与提交后动作，自由填写必须带提示或示例，缺失信息不能靠后续业务调用绕过，重启续跑后仍保持这一门槛。执行过程显示思考、当前工具、搜索引擎与切换备用引擎、封面下载和本批计数，等待超过 20 秒提示仍在响应，不显示假进度；首页底部新增活动任务栏，可展开并直接打开执行中或待处理任务。批量查封面合并同批同书名作者的查询，每本取得一张匹配候选即取消慢来源，4 本并发实测由 11,975 ms 降到 782 ms。"
 }
