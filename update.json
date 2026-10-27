@@ -1,11 +1,11 @@
 {
-  "versionCode": 208,
-  "versionName": "3.1.92",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.92/xiaoshiguang-v3.1.92-release.apk",
+  "versionCode": 209,
+  "versionName": "3.1.93",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.93/xiaoshiguang-v3.1.93-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.92/xiaoshiguang-v3.1.92-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.92/xiaoshiguang-v3.1.92-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.93/xiaoshiguang-v3.1.93-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.93/xiaoshiguang-v3.1.93-release.apk"
   ],
-  "sha256": "990c87b61cba24c4fbdf6c0355b03c26fb518941f0159ab593359a1bf83a98f8",
-  "changelog": "Google Books 身份头：搜书与补封面的 Google Books 请求携带应用包名与签名 SHA-1，修复受限 API Key 一律 403 的问题；其他书目来源不受影响。"
+  "sha256": "05f15fad51447dbd1e7ad4bfe118bd41de55008f97c2b3c0dae4301518310c49",
+  "changelog": "书架选择专注模式：进入批量选择收起主导航，搜索与筛选折叠进工具行，同屏可见更多封面；补记阅读选书、日期与时长卡片间距优化，保存状态兼容旧格式。"
 }
