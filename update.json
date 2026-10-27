@@ -1,11 +1,11 @@
 {
-  "versionCode": 210,
-  "versionName": "3.1.94",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.94/xiaoshiguang-v3.1.94-release.apk",
+  "versionCode": 211,
+  "versionName": "3.1.95",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.95/xiaoshiguang-v3.1.95-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.94/xiaoshiguang-v3.1.94-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.94/xiaoshiguang-v3.1.94-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.95/xiaoshiguang-v3.1.95-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.95/xiaoshiguang-v3.1.95-release.apk"
   ],
-  "sha256": "aaeb47e1a23dbff54daac7563cd6295396083d994db66ef601005d7638744fa0",
-  "changelog": "封面补全核验：ISBN 校验与跨来源书目核验后再采用候选，未核验或有版本歧义时保留缺图并说明，不把未核验图片当封面。"
+  "sha256": "99ace36162afea76186d46d029dd2574d86a3f47590a69e8fbfd5b220b27ba53",
+  "changelog": "内置方法 Skill 与命令执行：通用方法 Skill 内置可关闭，能力面板插件分组管理，新增 Bash 命令执行与会话文件搜索"
 }
