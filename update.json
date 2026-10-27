@@ -1,11 +1,11 @@
 {
-  "versionCode": 211,
-  "versionName": "3.1.95",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.95/xiaoshiguang-v3.1.95-release.apk",
+  "versionCode": 212,
+  "versionName": "3.1.96",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.96/xiaoshiguang-v3.1.96-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.95/xiaoshiguang-v3.1.95-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.95/xiaoshiguang-v3.1.95-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.96/xiaoshiguang-v3.1.96-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.96/xiaoshiguang-v3.1.96-release.apk"
   ],
-  "sha256": "99ace36162afea76186d46d029dd2574d86a3f47590a69e8fbfd5b220b27ba53",
-  "changelog": "内置方法 Skill 与命令执行：通用方法 Skill 内置可关闭，能力面板插件分组管理，新增 Bash 命令执行与会话文件搜索"
+  "sha256": "92502a7e2cd5c65e9082a5a6e315eab2b2c805968ce2b9a57c62108c74353ea6",
+  "changelog": "语音模型按需下载：安装包精简至约 21MB，设置中可选轻量版 29.5MB 或增强版 82.4MB，支持切换、删除与断点续传"
 }
