@@ -1,11 +1,11 @@
 {
-  "versionCode": 209,
-  "versionName": "3.1.93",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.93/xiaoshiguang-v3.1.93-release.apk",
+  "versionCode": 210,
+  "versionName": "3.1.94",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.94/xiaoshiguang-v3.1.94-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.93/xiaoshiguang-v3.1.93-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.93/xiaoshiguang-v3.1.93-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.94/xiaoshiguang-v3.1.94-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.94/xiaoshiguang-v3.1.94-release.apk"
   ],
-  "sha256": "05f15fad51447dbd1e7ad4bfe118bd41de55008f97c2b3c0dae4301518310c49",
-  "changelog": "书架选择专注模式：进入批量选择收起主导航，搜索与筛选折叠进工具行，同屏可见更多封面；补记阅读选书、日期与时长卡片间距优化，保存状态兼容旧格式。"
+  "sha256": "aaeb47e1a23dbff54daac7563cd6295396083d994db66ef601005d7638744fa0",
+  "changelog": "封面补全核验：ISBN 校验与跨来源书目核验后再采用候选，未核验或有版本歧义时保留缺图并说明，不把未核验图片当封面。"
 }
