@@ -1,11 +1,11 @@
 {
-  "versionCode": 207,
-  "versionName": "3.1.91",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.91/xiaoshiguang-v3.1.91-release.apk",
+  "versionCode": 208,
+  "versionName": "3.1.92",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.92/xiaoshiguang-v3.1.92-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.91/xiaoshiguang-v3.1.91-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.91/xiaoshiguang-v3.1.91-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.92/xiaoshiguang-v3.1.92-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.92/xiaoshiguang-v3.1.92-release.apk"
   ],
-  "sha256": "cb8404487476b737e0debcf11d771fd46d11ab927b67871d6a7442faa9525dc6",
-  "changelog": "书架拖动多选：书籍列表与封面墙支持长按后拖动连续选择，靠近边缘自动滚动，拖回可缩小范围；长按前滚动与横滑不受影响。"
+  "sha256": "990c87b61cba24c4fbdf6c0355b03c26fb518941f0159ab593359a1bf83a98f8",
+  "changelog": "Google Books 身份头：搜书与补封面的 Google Books 请求携带应用包名与签名 SHA-1，修复受限 API Key 一律 403 的问题；其他书目来源不受影响。"
 }
