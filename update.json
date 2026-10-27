@@ -1,11 +1,11 @@
 {
-  "versionCode": 206,
-  "versionName": "3.1.90",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.90/xiaoshiguang-v3.1.90-release.apk",
+  "versionCode": 207,
+  "versionName": "3.1.91",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.91/xiaoshiguang-v3.1.91-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.90/xiaoshiguang-v3.1.90-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.90/xiaoshiguang-v3.1.90-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.91/xiaoshiguang-v3.1.91-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.91/xiaoshiguang-v3.1.91-release.apk"
   ],
-  "sha256": "a6d71b3bcea60f3336a66b2d913f2d448f7eb4ed597d761003a030ed442e3df1",
-  "changelog": "数据与长任务：本地资料改为宿主下推查询，结果按引用分页读取，原表流式导入，网络与图片共用预算，忙碌任务可提交修改"
+  "sha256": "cb8404487476b737e0debcf11d771fd46d11ab927b67871d6a7442faa9525dc6",
+  "changelog": "书架拖动多选：书籍列表与封面墙支持长按后拖动连续选择，靠近边缘自动滚动，拖回可缩小范围；长按前滚动与横滑不受影响。"
 }
