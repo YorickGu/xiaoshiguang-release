@@ -1,11 +1,11 @@
 {
-  "versionCode": 212,
-  "versionName": "3.1.96",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.96/xiaoshiguang-v3.1.96-release.apk",
+  "versionCode": 213,
+  "versionName": "3.1.97",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.97/xiaoshiguang-v3.1.97-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.96/xiaoshiguang-v3.1.96-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.96/xiaoshiguang-v3.1.96-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.97/xiaoshiguang-v3.1.97-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.97/xiaoshiguang-v3.1.97-release.apk"
   ],
-  "sha256": "92502a7e2cd5c65e9082a5a6e315eab2b2c805968ce2b9a57c62108c74353ea6",
-  "changelog": "语音模型按需下载：安装包精简至约 21MB，设置中可选轻量版 29.5MB 或增强版 82.4MB，支持切换、删除与断点续传"
+  "sha256": "55c54b6f61f6139d3732923d63bb9e60e7493ad784085683ec04151c6ff46f6e",
+  "changelog": "调整并发"
 }
