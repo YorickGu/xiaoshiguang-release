@@ -1,11 +1,11 @@
 {
-  "versionCode": 215,
-  "versionName": "3.1.99",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.99/xiaoshiguang-v3.1.99-release.apk",
+  "versionCode": 216,
+  "versionName": "3.1.100",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.100/xiaoshiguang-v3.1.100-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.99/xiaoshiguang-v3.1.99-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.99/xiaoshiguang-v3.1.99-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.100/xiaoshiguang-v3.1.100-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.100/xiaoshiguang-v3.1.100-release.apk"
   ],
-  "sha256": "1ce677de3a61bc430022dba8d168ae4ed9687e4baca988d5b59a3677d916b607",
-  "changelog": "Agent 执行进度分项统计与回复流式预览"
+  "sha256": "10777354b6a2cd51c41ddf07a505fbc27812cccf00efb06a1ad64fd9a4f4c3fb",
+  "changelog": "今天页全新概览卡片：目标进度环与今日统计，优化页签滑动切换"
 }
