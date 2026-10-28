@@ -1,11 +1,11 @@
 {
-  "versionCode": 214,
-  "versionName": "3.1.98",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.98/xiaoshiguang-v3.1.98-release.apk",
+  "versionCode": 215,
+  "versionName": "3.1.99",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.99/xiaoshiguang-v3.1.99-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.98/xiaoshiguang-v3.1.98-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.98/xiaoshiguang-v3.1.98-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.99/xiaoshiguang-v3.1.99-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.99/xiaoshiguang-v3.1.99-release.apk"
   ],
-  "sha256": "ac6344fa66566473eb6a4c3e428722852a7da78ad9dae98ad083b9e6e08e2456",
-  "changelog": "新增 MiniMax AI 服务可选，智能体支持读取公开网页获取图文资料"
+  "sha256": "1ce677de3a61bc430022dba8d168ae4ed9687e4baca988d5b59a3677d916b607",
+  "changelog": "Agent 执行进度分项统计与回复流式预览"
 }
