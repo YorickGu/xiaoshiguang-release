@@ -1,11 +1,11 @@
 {
-  "versionCode": 216,
-  "versionName": "3.1.100",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.100/xiaoshiguang-v3.1.100-release.apk",
+  "versionCode": 217,
+  "versionName": "3.1.101",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.101/xiaoshiguang-v3.1.101-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.100/xiaoshiguang-v3.1.100-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.100/xiaoshiguang-v3.1.100-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.101/xiaoshiguang-v3.1.101-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.101/xiaoshiguang-v3.1.101-release.apk"
   ],
-  "sha256": "10777354b6a2cd51c41ddf07a505fbc27812cccf00efb06a1ad64fd9a4f4c3fb",
-  "changelog": "今天页全新概览卡片：目标进度环与今日统计，优化页签滑动切换"
+  "sha256": "b52ffac95a5e5b869ddf92f0c7d8c804d1b7f37d0d1f93613b87931ab3d832eb",
+  "changelog": "今天页概览卡片与各页签操作按钮优化，修复页签点击切换残影"
 }
