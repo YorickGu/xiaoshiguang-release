@@ -1,11 +1,11 @@
 {
-  "versionCode": 219,
-  "versionName": "3.1.103",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.103/xiaoshiguang-v3.1.103-release.apk",
+  "versionCode": 220,
+  "versionName": "3.1.104",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.104/xiaoshiguang-v3.1.104-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.103/xiaoshiguang-v3.1.103-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.103/xiaoshiguang-v3.1.103-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.104/xiaoshiguang-v3.1.104-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.104/xiaoshiguang-v3.1.104-release.apk"
   ],
-  "sha256": "a53f2dcfa95dc692cdb573648a9ff0a27d6cc955fd4a25d0b08334502ee8c240",
-  "changelog": "AI 回复支持联网搜索配图；搜索插件可选免费搜索或 DeepSeek；Mermaid 流程图移动端自动重排；音频库歌单搜索与整理改版"
+  "sha256": "8ae7e4bdf76adae66825cd469d07078a037657aa32fc3f453bb6329ce7f8e3f5",
+  "changelog": "手机定位改为用户明确确认后才读取；地图卡片改版并修复公交路线显示；时间页阅读趋势重构为独立卡片"
 }
