@@ -1,11 +1,11 @@
 {
-  "versionCode": 218,
-  "versionName": "3.1.102",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.102/xiaoshiguang-v3.1.102-release.apk",
+  "versionCode": 219,
+  "versionName": "3.1.103",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.103/xiaoshiguang-v3.1.103-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.102/xiaoshiguang-v3.1.102-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.102/xiaoshiguang-v3.1.102-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.103/xiaoshiguang-v3.1.103-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.103/xiaoshiguang-v3.1.103-release.apk"
   ],
-  "sha256": "ee623300ccb8cd03262521bd9602220f4c2a03d1e6198d2ee4da5ea52af8b7c1",
-  "changelog": "AI 回复支持 Mermaid 图表渲染，新增助手历史页，导入音频按文件名自动识别系列分组，时间控件紧凑化"
+  "sha256": "a53f2dcfa95dc692cdb573648a9ff0a27d6cc955fd4a25d0b08334502ee8c240",
+  "changelog": "AI 回复支持联网搜索配图；搜索插件可选免费搜索或 DeepSeek；Mermaid 流程图移动端自动重排；音频库歌单搜索与整理改版"
 }
