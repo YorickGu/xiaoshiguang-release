@@ -1,11 +1,11 @@
 {
-  "versionCode": 220,
-  "versionName": "3.1.104",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.104/xiaoshiguang-v3.1.104-release.apk",
+  "versionCode": 221,
+  "versionName": "3.1.105",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.105/xiaoshiguang-v3.1.105-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.104/xiaoshiguang-v3.1.104-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.104/xiaoshiguang-v3.1.104-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.105/xiaoshiguang-v3.1.105-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.105/xiaoshiguang-v3.1.105-release.apk"
   ],
-  "sha256": "8ae7e4bdf76adae66825cd469d07078a037657aa32fc3f453bb6329ce7f8e3f5",
-  "changelog": "手机定位改为用户明确确认后才读取；地图卡片改版并修复公交路线显示；时间页阅读趋势重构为独立卡片"
+  "sha256": "6641492f1d9e037e9ffc4ebc4eb23d834197e4067c926c6f4ba529fcecb2d9d7",
+  "changelog": "AI 服务商账户余额查询与官方账单入口、地图卡片全屏查看、Agent 表单文本参考值、诊断日志瘦身"
 }
