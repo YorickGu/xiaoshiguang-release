@@ -1,11 +1,11 @@
 {
-  "versionCode": 222,
-  "versionName": "3.1.106",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.106/xiaoshiguang-v3.1.106-release.apk",
+  "versionCode": 223,
+  "versionName": "3.1.107",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.107/xiaoshiguang-v3.1.107-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.106/xiaoshiguang-v3.1.106-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.106/xiaoshiguang-v3.1.106-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.107/xiaoshiguang-v3.1.107-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.107/xiaoshiguang-v3.1.107-release.apk"
   ],
-  "sha256": "66effb3643bc0be0dbe0b69bd02913963f6a1368be73fee1766e0a2d393b44c8",
-  "changelog": "小拾光助手 Airy 界面改版与输入框重构、回复生成图片分享、书架与设计令牌视觉优化"
+  "sha256": "b19baa0ed9aec28f8b327c5a5706485d7fc4c0f79a3c46e1810ebc63c3739205",
+  "changelog": "Agent 生产入口切换官方 DSH 运行时，Koog 与自研 Harness 移出 APK 仅保留测试夹具，最低系统版本提升至 Android 8.0，首次使用自动下载并校验固定版本运行环境"
 }
