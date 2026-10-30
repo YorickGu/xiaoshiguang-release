@@ -1,11 +1,11 @@
 {
-  "versionCode": 221,
-  "versionName": "3.1.105",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.105/xiaoshiguang-v3.1.105-release.apk",
+  "versionCode": 222,
+  "versionName": "3.1.106",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.106/xiaoshiguang-v3.1.106-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.105/xiaoshiguang-v3.1.105-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.105/xiaoshiguang-v3.1.105-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.106/xiaoshiguang-v3.1.106-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.106/xiaoshiguang-v3.1.106-release.apk"
   ],
-  "sha256": "6641492f1d9e037e9ffc4ebc4eb23d834197e4067c926c6f4ba529fcecb2d9d7",
-  "changelog": "AI 服务商账户余额查询与官方账单入口、地图卡片全屏查看、Agent 表单文本参考值、诊断日志瘦身"
+  "sha256": "66effb3643bc0be0dbe0b69bd02913963f6a1368be73fee1766e0a2d393b44c8",
+  "changelog": "小拾光助手 Airy 界面改版与输入框重构、回复生成图片分享、书架与设计令牌视觉优化"
 }
