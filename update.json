@@ -1,11 +1,11 @@
 {
-  "versionCode": 225,
-  "versionName": "3.1.109",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.109/xiaoshiguang-v3.1.109-release.apk",
+  "versionCode": 226,
+  "versionName": "3.1.110",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.110/xiaoshiguang-v3.1.110-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.109/xiaoshiguang-v3.1.109-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.109/xiaoshiguang-v3.1.109-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.110/xiaoshiguang-v3.1.110-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.110/xiaoshiguang-v3.1.110-release.apk"
   ],
-  "sha256": "a68c4e10c70b1af253b961e2ebb7572caf696159c4a508fd2ba0c7c0cd13bfa9",
-  "changelog": "家庭业务上线：成员档案与账号关联、家庭／私人账本、记事与成长、待办提醒、家庭共读，账号分区增量同步、冲突保留与附件校验；AI 可查询并写入家庭数据，AI 对话、原始任务、签名与附件纳入备份恢复；DeepSeek 文件生命周期与回答朗读完善，升级自动迁移并保留本地数据"
+  "sha256": "10816ed7e1a0c961359ff8743c8126ffac5cdd83f942e84a4cbe578e549bc368",
+  "changelog": "iOS 质感改版：中性黑白灰材质与分级圆角，工作区菜单原位展开侧栏；书架与首页附件「＋」接入拍照、相册、AI 搜书与手动填写，所选版本经原生核对卡确认后一次提交真实入架，含去重、撤销与本地图片导入；AI 书目核对卡与工具链完善"
 }
