@@ -1,11 +1,11 @@
 {
-  "versionCode": 224,
-  "versionName": "3.1.108",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.108/xiaoshiguang-v3.1.108-release.apk",
+  "versionCode": 225,
+  "versionName": "3.1.109",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.109/xiaoshiguang-v3.1.109-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.108/xiaoshiguang-v3.1.108-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.108/xiaoshiguang-v3.1.108-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.109/xiaoshiguang-v3.1.109-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.109/xiaoshiguang-v3.1.109-release.apk"
   ],
-  "sha256": "75e22a992d4bbf2a6f3c285cca23776e732ebdd6f9ce686e53244628a497b554",
-  "changelog": "全新 AI 首页与层级侧栏，输入区整合附件、语音与思考深度；接入 DeepSeek 联网搜索、链接阅读、文件上传、语音识别与回答朗读，来源和用量随任务保存；页面切换更轻快，升级后自动迁移并保留本地数据"
+  "sha256": "a68c4e10c70b1af253b961e2ebb7572caf696159c4a508fd2ba0c7c0cd13bfa9",
+  "changelog": "家庭业务上线：成员档案与账号关联、家庭／私人账本、记事与成长、待办提醒、家庭共读，账号分区增量同步、冲突保留与附件校验；AI 可查询并写入家庭数据，AI 对话、原始任务、签名与附件纳入备份恢复；DeepSeek 文件生命周期与回答朗读完善，升级自动迁移并保留本地数据"
 }
