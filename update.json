@@ -1,11 +1,11 @@
 {
-  "versionCode": 223,
-  "versionName": "3.1.107",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.107/xiaoshiguang-v3.1.107-release.apk",
+  "versionCode": 224,
+  "versionName": "3.1.108",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.108/xiaoshiguang-v3.1.108-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.107/xiaoshiguang-v3.1.107-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.107/xiaoshiguang-v3.1.107-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.108/xiaoshiguang-v3.1.108-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.108/xiaoshiguang-v3.1.108-release.apk"
   ],
-  "sha256": "b19baa0ed9aec28f8b327c5a5706485d7fc4c0f79a3c46e1810ebc63c3739205",
-  "changelog": "Agent 生产入口切换官方 DSH 运行时，Koog 与自研 Harness 移出 APK 仅保留测试夹具，最低系统版本提升至 Android 8.0，首次使用自动下载并校验固定版本运行环境"
+  "sha256": "75e22a992d4bbf2a6f3c285cca23776e732ebdd6f9ce686e53244628a497b554",
+  "changelog": "全新 AI 首页与层级侧栏，输入区整合附件、语音与思考深度；接入 DeepSeek 联网搜索、链接阅读、文件上传、语音识别与回答朗读，来源和用量随任务保存；页面切换更轻快，升级后自动迁移并保留本地数据"
 }
