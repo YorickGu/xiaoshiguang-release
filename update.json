@@ -1,11 +1,11 @@
 {
-  "versionCode": 226,
-  "versionName": "3.1.110",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.110/xiaoshiguang-v3.1.110-release.apk",
+  "versionCode": 227,
+  "versionName": "3.1.111",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.111/xiaoshiguang-v3.1.111-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.110/xiaoshiguang-v3.1.110-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.110/xiaoshiguang-v3.1.110-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.111/xiaoshiguang-v3.1.111-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.111/xiaoshiguang-v3.1.111-release.apk"
   ],
-  "sha256": "10816ed7e1a0c961359ff8743c8126ffac5cdd83f942e84a4cbe578e549bc368",
-  "changelog": "iOS 质感改版：中性黑白灰材质与分级圆角，工作区菜单原位展开侧栏；书架与首页附件「＋」接入拍照、相册、AI 搜书与手动填写，所选版本经原生核对卡确认后一次提交真实入架，含去重、撤销与本地图片导入；AI 书目核对卡与工具链完善"
+  "sha256": "8cab143f85e46482531f20cb11a3ff4bfd661c058a582e653cb582a6ba0fd261",
+  "changelog": "界面改版：彩色无底色线形图标与通透材质，首页、侧栏、设置与家庭页按新稿重建；设置新增 AI 助手与应用更新入口，更新页复用真实检查、下载、暂停续传与安装授权；语音改为底部悬浮面板，支持长按、上滑取消与识别文字编辑优化；助手能力按对话作用域独立设置，外部访问可要求每次确认，侧栏切页去掉第三页闪现"
 }
