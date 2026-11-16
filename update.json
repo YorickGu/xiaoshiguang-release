@@ -1,11 +1,11 @@
 {
-  "versionCode": 227,
-  "versionName": "3.1.111",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.111/xiaoshiguang-v3.1.111-release.apk",
+  "versionCode": 228,
+  "versionName": "3.1.112",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.112/xiaoshiguang-v3.1.112-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.111/xiaoshiguang-v3.1.111-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.111/xiaoshiguang-v3.1.111-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.112/xiaoshiguang-v3.1.112-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.112/xiaoshiguang-v3.1.112-release.apk"
   ],
-  "sha256": "8cab143f85e46482531f20cb11a3ff4bfd661c058a582e653cb582a6ba0fd261",
-  "changelog": "界面改版：彩色无底色线形图标与通透材质，首页、侧栏、设置与家庭页按新稿重建；设置新增 AI 助手与应用更新入口，更新页复用真实检查、下载、暂停续传与安装授权；语音改为底部悬浮面板，支持长按、上滑取消与识别文字编辑优化；助手能力按对话作用域独立设置，外部访问可要求每次确认，侧栏切页去掉第三页闪现"
+  "sha256": "5f2d1009a469970f39652be2688878a75a015927e750525dd5162f3dcee44db4",
+  "changelog": "侧栏改为紧凑列表：条目统一 48dp 触控高度、分区与账号卡间距收紧，对话快捷入口从文字行改为标题栏左侧图标，并与工作区共用滚动区域；手机输入区底部推荐说明下线。照片识书未命中时直接进入核对表单并沿用原照片作封面，再次搜索不再清空已识别字段，按钮统一为「用作封面」。"
 }
