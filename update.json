@@ -1,11 +1,11 @@
 {
-  "versionCode": 233,
-  "versionName": "3.1.117",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.117/xiaoshiguang-v3.1.117-release.apk",
+  "versionCode": 234,
+  "versionName": "3.1.118",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.118/xiaoshiguang-v3.1.118-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.117/xiaoshiguang-v3.1.117-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.117/xiaoshiguang-v3.1.117-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.118/xiaoshiguang-v3.1.118-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.118/xiaoshiguang-v3.1.118-release.apk"
   ],
-  "sha256": "2995d76e4a72ac272d18ed809279a1965fada5da5de832bbef9d6777f25db0fa",
-  "changelog": "新增首页「接着上次」卡片，从最近音频、未结束共读、最近未读完书籍与今日待办中取一项，可换一项、今天隐藏，并可在 AI 助手设置重新开启；播放开始 3 秒后顶栏自动收起，暂停、缓冲、失败与自然结束保持展开，进度刷新不重置计时；成长页支持跨空间浏览、月份日期轴、照片优先与成员/照片/成长筛选，新增全屏编辑、可选标题、草稿与可见范围；更新页按钮精简为下载/暂停/继续使用/继续下载/重试/安装，更新说明默认折叠且不打断进度状态。"
+  "sha256": "0605ce75bd8ebf29d92be1bac83649225a5442d54b69483dad4f11691544e506",
+  "changelog": "首页「接着上次」建议卡改为专用原生组件，封面 72×90、左 5 右 12 圆角、分隔线与 48 高胶囊按钮按原型对齐，「换一个」在左、刷新图标在右，显示真实专辑与分类；播放顶栏收起改用单调时钟固定截止时间，真实播放满 3 秒触发，进度刷新不重置计时，仅播放器、首页弹层、更新提示与应用生命周期会阻塞，控件焦点不再暂停计时；收起动画校准为 280ms 淡出、上移 8dp、缩至 97%，「拾光 + 小耳机」的淡入时长与延迟同步对齐。"
 }
