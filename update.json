@@ -1,11 +1,11 @@
 {
-  "versionCode": 230,
-  "versionName": "3.1.116",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.116/xiaoshiguang-v3.1.116-release.apk",
+  "versionCode": 233,
+  "versionName": "3.1.117",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.117/xiaoshiguang-v3.1.117-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.116/xiaoshiguang-v3.1.116-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.116/xiaoshiguang-v3.1.116-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.117/xiaoshiguang-v3.1.117-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.117/xiaoshiguang-v3.1.117-release.apk"
   ],
-  "sha256": "8a60746bcb14b6f09c70d8b7e663a1b98bd35ba4c5ae76ed008b4b08857ab3b6",
-  "changelog": "新增「光巢」应用图标与「小拾光」桌面名称，自适应图标、Android 13+ 主题层与通知图标统一适配；首页音频胶囊停止播放 10 秒后自动收起，恢复播放立即出现，进度刷新与页面重开不重置计时；家庭入口按目的地加载账号与成员，不再等待云库与装饰预览，进入共享库时再单独加载；历史恢复改为个人备份与家庭同步并行，两条链路都完成后才显示完成，保留原有身份校验、去重与冲突处理；云请求、同步阶段与书籍合并补充耗时诊断，便于定位真实等待。"
+  "sha256": "2995d76e4a72ac272d18ed809279a1965fada5da5de832bbef9d6777f25db0fa",
+  "changelog": "新增首页「接着上次」卡片，从最近音频、未结束共读、最近未读完书籍与今日待办中取一项，可换一项、今天隐藏，并可在 AI 助手设置重新开启；播放开始 3 秒后顶栏自动收起，暂停、缓冲、失败与自然结束保持展开，进度刷新不重置计时；成长页支持跨空间浏览、月份日期轴、照片优先与成员/照片/成长筛选，新增全屏编辑、可选标题、草稿与可见范围；更新页按钮精简为下载/暂停/继续使用/继续下载/重试/安装，更新说明默认折叠且不打断进度状态。"
 }
