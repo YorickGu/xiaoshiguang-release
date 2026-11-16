@@ -1,11 +1,11 @@
 {
-  "versionCode": 228,
-  "versionName": "3.1.112",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.112/xiaoshiguang-v3.1.112-release.apk",
+  "versionCode": 229,
+  "versionName": "3.1.115",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.115/xiaoshiguang-v3.1.115-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.112/xiaoshiguang-v3.1.112-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.112/xiaoshiguang-v3.1.112-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.115/xiaoshiguang-v3.1.115-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.115/xiaoshiguang-v3.1.115-release.apk"
   ],
-  "sha256": "5f2d1009a469970f39652be2688878a75a015927e750525dd5162f3dcee44db4",
-  "changelog": "侧栏改为紧凑列表：条目统一 48dp 触控高度、分区与账号卡间距收紧，对话快捷入口从文字行改为标题栏左侧图标，并与工作区共用滚动区域；手机输入区底部推荐说明下线。照片识书未命中时直接进入核对表单并沿用原照片作封面，再次搜索不再清空已识别字段，按钮统一为「用作封面」。"
+  "sha256": "7ba47f9c5711853b0cbf9644d9d6e966ac4b1b7b22bbedf5f2b43d9f99f3da76",
+  "changelog": "知识收藏改为真实双列瀑布流，卡片按内容自适应高度，支持搜索、分类与星标筛选，200% 字号自动切单列；新增「阅读时光」时间轴，按月份、成员与私人/家庭筛选，统一展示所有可访问的家庭与私人记录；首页顶栏新增音频播放胶囊，支持展开、暂停续播、队列、倍速、定时与收藏；「共享与同步」区分登录账号、家庭成员与未绑定档案，可先只读检查历史再显式合并找回，并修复首屏过早锁定私人空间导致家庭切换不生效的问题；登录页新增「忘记密码」，邮件 6 位数字验证码即可重置密码。"
 }
