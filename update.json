@@ -1,11 +1,11 @@
 {
-  "versionCode": 234,
-  "versionName": "3.1.118",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.118/xiaoshiguang-v3.1.118-release.apk",
+  "versionCode": 235,
+  "versionName": "3.1.119",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.119/xiaoshiguang-v3.1.119-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.118/xiaoshiguang-v3.1.118-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.118/xiaoshiguang-v3.1.118-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.119/xiaoshiguang-v3.1.119-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.119/xiaoshiguang-v3.1.119-release.apk"
   ],
-  "sha256": "0605ce75bd8ebf29d92be1bac83649225a5442d54b69483dad4f11691544e506",
-  "changelog": "首页「接着上次」建议卡改为专用原生组件，封面 72×90、左 5 右 12 圆角、分隔线与 48 高胶囊按钮按原型对齐，「换一个」在左、刷新图标在右，显示真实专辑与分类；播放顶栏收起改用单调时钟固定截止时间，真实播放满 3 秒触发，进度刷新不重置计时，仅播放器、首页弹层、更新提示与应用生命周期会阻塞，控件焦点不再暂停计时；收起动画校准为 280ms 淡出、上移 8dp、缩至 97%，「拾光 + 小耳机」的淡入时长与延迟同步对齐。"
+  "sha256": "d349561a07119f30d619abbf1bcfa65a891c8c6b7e1375d6894901d6dd154a98",
+  "changelog": "首页按当前稿重做：问候、横向轻量快捷入口、接续卡片与输入区；顶栏固定 72dp、导航图形 20dp、点击范围 44dp，接续封面 48×60、卡片圆角 20，输入面板 398×115；播放顶栏改用单调时钟与五阶段，仅确认正在播放且无加载失败时展开，播放确认后 3000ms 展开、360ms 收拢、650ms 灵动岛、240ms 缩小消失，小岛 80×30 同心，普通标题 160ms 恢复，暂停、停止与中断走同一退出路径并保留进度，重新展开或切歌取消旧退出任务，触摸、键盘焦点、弹层与生命周期阻塞独立计时，进度刷新不重置；日期、说明、130%/200% 标题按稿使用具体字号，快捷入口移入内容区，草稿、语音、附件与思考深度保留。"
 }
