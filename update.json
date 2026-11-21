@@ -1,11 +1,11 @@
 {
-  "versionCode": 235,
-  "versionName": "3.1.119",
-  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.119/xiaoshiguang-v3.1.119-release.apk",
+  "versionCode": 236,
+  "versionName": "3.1.120",
+  "url": "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.120/xiaoshiguang-v3.1.120-release.apk",
   "urls": [
-    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.119/xiaoshiguang-v3.1.119-release.apk",
-    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.119/xiaoshiguang-v3.1.119-release.apk"
+    "https://gh-proxy.com/https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.120/xiaoshiguang-v3.1.120-release.apk",
+    "https://github.com/YorickGu/xiaoshiguang-release/releases/download/v3.1.120/xiaoshiguang-v3.1.120-release.apk"
   ],
-  "sha256": "d349561a07119f30d619abbf1bcfa65a891c8c6b7e1375d6894901d6dd154a98",
-  "changelog": "首页按当前稿重做：问候、横向轻量快捷入口、接续卡片与输入区；顶栏固定 72dp、导航图形 20dp、点击范围 44dp，接续封面 48×60、卡片圆角 20，输入面板 398×115；播放顶栏改用单调时钟与五阶段，仅确认正在播放且无加载失败时展开，播放确认后 3000ms 展开、360ms 收拢、650ms 灵动岛、240ms 缩小消失，小岛 80×30 同心，普通标题 160ms 恢复，暂停、停止与中断走同一退出路径并保留进度，重新展开或切歌取消旧退出任务，触摸、键盘焦点、弹层与生命周期阻塞独立计时，进度刷新不重置；日期、说明、130%/200% 标题按稿使用具体字号，快捷入口移入内容区，草稿、语音、附件与思考深度保留。"
+  "sha256": "b878a6307b4729cdd99b2937abd1f5dc031755cce1724372c4089f67f46933ca",
+  "changelog": "家庭与记录页按新稿原生重做：侧栏改为家庭、记事、日程、待办，新增记录总览；记事、日程、待办共用统一新建表单，支持照片附件、日期与提醒设置、草稿断点续写，保存后回到列表并可继续新建；家庭页补成员简介与资料登记日期，成员卡片、资料详情展示新字段，服务端按 profile=2 分级下发新字段，旧客户端读写不受影响。"
 }
